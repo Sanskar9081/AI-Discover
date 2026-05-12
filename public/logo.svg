@@ -1,0 +1,41 @@
+<svg viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Gradient matching website theme accent color -->
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#9b5ade;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#7c3aed;stop-opacity:1" />
+    </linearGradient>
+    
+    <linearGradient id="lightAccent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#c4b5fd;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#a78bfa;stop-opacity:1" />
+    </linearGradient>
+    
+    <filter id="shine">
+      <feGaussianBlur stdDeviation="1" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <!-- Outer Circle (Magnifying Glass) -->
+  <circle cx="120" cy="120" r="95" fill="none" stroke="url(#accentGrad)" stroke-width="18" stroke-linecap="round"/>
+  
+  <!-- Inner accent circle -->
+  <circle cx="120" cy="120" r="95" fill="none" stroke="url(#lightAccent)" stroke-width="2" opacity="0.3"/>
+  
+  <!-- AI Text - Modern and Bold -->
+  <text x="120" y="140" font-size="100" font-weight="900" font-family="Arial, sans-serif" fill="url(#accentGrad)" text-anchor="middle" dominant-baseline="middle" letter-spacing="-8">AI</text>
+  
+  <!-- Decorative Element: Gradient Accent Line under AI -->
+  <line x1="75" y1="165" x2="165" y2="165" stroke="url(#accentGrad)" stroke-width="3" opacity="0.6" stroke-linecap="round"/>
+  
+  <!-- Magnifying Glass Handle -->
+  <g>
+    <line x1="190" y1="190" x2="265" y2="265" stroke="url(#accentGrad)" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" filter="url(#shine)"/>
+    <!-- Handle highlight -->
+    <line x1="190" y1="190" x2="265" y2="265" stroke="url(#lightAccent)" stroke-width="5" opacity="0.3" stroke-linecap="round"/>
+  </g>
+</svg>

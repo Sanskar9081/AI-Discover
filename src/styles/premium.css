@@ -1,0 +1,84 @@
+/* Modern Premium SaaS Shadows & Styles */
+
+/* Enhanced Card Shadows */
+:root {
+  /* Shadow System */
+  --shadow-xs: 0 1px 2px 0 rgb(0 0 0 / 0.05);
+  --shadow-sm: 0 1px 3px 0 rgb(0 0 0 / 0.08), 0 1px 2px -1px rgb(0 0 0 / 0.04);
+  --shadow-md: 0 4px 6px -1px rgb(0 0 0 / 0.08), 0 2px 4px -2px rgb(0 0 0 / 0.04);
+  --shadow-lg: 0 10px 15px -3px rgb(0 0 0 / 0.09), 0 4px 6px -4px rgb(0 0 0 / 0.04);
+  --shadow-xl: 0 20px 25px -5px rgb(0 0 0 / 0.10), 0 8px 10px -6px rgb(0 0 0 / 0.04);
+  --shadow-2xl: 0 25px 50px -12px rgb(0 0 0 / 0.12);
+  
+  /* Focus Glow */
+  --shadow-focus: 0 0 0 3px rgb(var(--accent-rgb) / 0.1), 0 0 20px -4px rgb(var(--accent-rgb) / 0.3);
+}
+
+/* Premium Card Hover States */
+@layer components {
+  .card-premium {
+    @apply rounded-xl border border-border/50 bg-gradient-to-br from-card via-card to-card/30 shadow-sm transition-all duration-300;
+  }
+
+  .card-premium-hover {
+    @apply hover:shadow-lg hover:border-accent/40 hover:bg-gradient-to-br hover:from-card hover:via-card/90 hover:to-card/20;
+  }
+
+  /* Button Premium */
+  .btn-premium {
+    @apply rounded-lg font-medium transition-all duration-200 active:scale-95;
+  }
+
+  .btn-premium-primary {
+    @apply bg-gradient-to-r from-accent to-accent/90 text-accent-foreground hover:shadow-lg hover:from-accent/95 hover:to-accent/85;
+  }
+
+  /* Input Premium */
+  .input-premium {
+    @apply rounded-lg border border-border/50 bg-gradient-to-br from-card to-card/30 backdrop-blur-sm transition-all duration-200;
+  }
+
+  .input-premium-focus {
+    @apply focus:border-accent/40 focus:shadow-lg focus:ring-2 focus:ring-accent/10 focus:bg-gradient-to-br focus:from-card focus:to-card/20;
+  }
+
+  /* Badge Premium */
+  .badge-premium {
+    @apply inline-flex items-center gap-1.5 rounded-full px-2.5 py-1 text-[10px] font-semibold ring-1 transition-all duration-200;
+  }
+
+  /* Icon Hover */
+  .icon-hover {
+    @apply transition-all duration-200 group-hover:scale-110 group-hover:text-accent;
+  }
+
+  /* Text Gradient */
+  .text-gradient {
+    @apply bg-gradient-to-r from-foreground via-foreground to-accent bg-clip-text text-transparent;
+  }
+
+  /* Premium Glassmorphism */
+  .glass {
+    @apply backdrop-blur-xl bg-white/[0.02] border border-white/[0.15];
+  }
+
+  .glass-dark {
+    @apply backdrop-blur-xl bg-black/[0.15] border border-white/[0.15];
+  }
+}
+
+/* Smooth Transitions */
+* {
+  @apply transition-colors duration-200;
+}
+
+button, a, input {
+  @apply transition-all duration-200;
+}
+
+/* Focus States */
+@layer components {
+  .focus-ring {
+    @apply focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2;
+  }
+}
