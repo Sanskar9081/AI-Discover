@@ -8,6 +8,120 @@ const mockData = {
   tools: [] as any[],
 };
 
+// Query builder chain support
+class QueryBuilder {
+  private table: string;
+  private filters: any[] = [];
+  private orderBy: { column: string; ascending: boolean } | null = null;
+  private limitCount: number | null = null;
+  private offsetCount: number | null = null;
+
+  constructor(table: string) {
+    this.table = table;
+  }
+
+  select(columns?: string) {
+    return this;
+  }
+
+  order(column: string, options?: any) {
+    this.orderBy = { column, ascending: options?.ascending !== false };
+    return this;
+  }
+
+  limit(count: number) {
+    this.limitCount = count;
+    return this;
+  }
+
+  offset(count: number) {
+    this.offsetCount = count;
+    return this;
+  }
+
+  eq(column: string, value: any) {
+    this.filters.push({ type: 'eq', column, value });
+    return this;
+  }
+
+  neq(column: string, value: any) {
+    this.filters.push({ type: 'neq', column, value });
+    return this;
+  }
+
+  gt(column: string, value: any) {
+    this.filters.push({ type: 'gt', column, value });
+    return this;
+  }
+
+  lt(column: string, value: any) {
+    this.filters.push({ type: 'lt', column, value });
+    return this;
+  }
+
+  gte(column: string, value: any) {
+    this.filters.push({ type: 'gte', column, value });
+    return this;
+  }
+
+  lte(column: string, value: any) {
+    this.filters.push({ type: 'lte', column, value });
+    return this;
+  }
+
+  in(column: string, values: any[]) {
+    this.filters.push({ type: 'in', column, values });
+    return this;
+  }
+
+  async then(callback: Function) {
+    return callback(await this.execute());
+  }
+
+  private async execute() {
+    let data = mockData[this.table as keyof typeof mockData] || [];
+    
+    // Apply filters
+    for (const filter of this.filters) {
+      data = data.filter((row: any) => {
+        switch (filter.type) {
+          case 'eq': return row[filter.column] === filter.value;
+          case 'neq': return row[filter.column] !== filter.value;
+          case 'gt': return row[filter.column] > filter.value;
+          case 'lt': return row[filter.column] < filter.value;
+          case 'gte': return row[filter.column] >= filter.value;
+          case 'lte': return row[filter.column] <= filter.value;
+          case 'in': return filter.values.includes(row[filter.column]);
+          default: return true;
+        }
+      });
+    }
+
+    // Apply ordering
+    if (this.orderBy) {
+      data.sort((a: any, b: any) => {
+        const aVal = a[this.orderBy!.column];
+        const bVal = b[this.orderBy!.column];
+        if (aVal < bVal) return this.orderBy!.ascending ? -1 : 1;
+        if (aVal > bVal) return this.orderBy!.ascending ? 1 : -1;
+        return 0;
+      });
+    }
+
+    // Apply offset
+    if (this.offsetCount !== null) {
+      data = data.slice(this.offsetCount);
+    }
+
+    // Apply limit
+    if (this.limitCount !== null) {
+      data = data.slice(0, this.limitCount);
+    }
+
+    return { data, error: null };
+  }
+}
+
 export const supabaseMock = {
   from: (table: string) => ({
     insert: async (data: any) => {
@@ -25,31 +139,13 @@ export const supabaseMock = {
       }
       return { data: Array.isArray(data) ? data : [data], error: null };
     },
-    select: async (columns?: string) => {
-      return { data: Array.isArray(mockData[table as keyof typeof mockData]) ? mockData[table as keyof typeof mockData] : [], error: null };
+    select: (columns?: string) => {
+      return new QueryBuilder(table);
     },
     delete: async () => {
       mockData[table as keyof typeof mockData] = [];
       return { data: null, error: null };
     },
-    order: (column: string, options?: any) => ({
-      limit: (count: number) => ({
-        select: () => ({
-          then: (callback: Function) => {
-            const table_data = mockData[table as keyof typeof mockData];
-            const results = Array.isArray(table_data) ? table_data.slice(0, count) : [];
-            callback({ data: results, error: null });
-            return Promise.resolve({ data: results, error: null });
-          },
-        }),
-      }),
-    }),
-    neq: (column: string, value: any) => ({
-      then: (callback: Function) => {
-        callback({ data: null, error: null });
-        return Promise.resolve({ data: null, error: null });
-      },
-    }),
   }),
 
   auth: {
