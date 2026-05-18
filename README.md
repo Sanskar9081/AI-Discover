@@ -32,8 +32,9 @@ Admin Management
 The main objective of AI Discover is to provide a centralized platform where users can discover, compare, and analyze AI tools easily without searching across multiple websites.
 
 📷 Screenshots
+<img width="1918" height="902" alt="Screenshot 2026-05-11 212345" src="https://github.com/user-attachments/assets/5f9155fc-ea3b-488b-9200-5f5c9420b302" />
 
-Add your project screenshots here.
+https://ai-discover-nu.vercel.app/
 
 🚀 Future Scope
 AI-based personalized recommendations
