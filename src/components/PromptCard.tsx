@@ -57,12 +57,26 @@ export function PromptCard({ prompt, index = 0 }: PromptCardProps) {
 
       {/* Before/After Images */}
       <div className="grid grid-cols-2 h-40 relative z-10 overflow-hidden">
-        <div className="relative overflow-hidden group/img">
-          <img src={prompt.beforeImage} alt="Before" className="h-full w-full object-cover transition-transform duration-500 group-hover/img:scale-120" />
+        <div className="relative overflow-hidden group/img bg-secondary/50 flex items-center justify-center">
+          {prompt.beforeImage ? (
+            <img src={prompt.beforeImage} alt="Before" className="h-full w-full object-cover transition-transform duration-500 group-hover/img:scale-120" />
+          ) : (
+            <div className="flex flex-col items-center justify-center text-muted-foreground/60">
+              <div className="text-3xl mb-1">📷</div>
+              <span className="text-xs">No image</span>
+            </div>
+          )}
           <motion.span whileHover={{ scale: 1.05 }} className="absolute bottom-3 left-3 px-3 py-1.5 rounded-lg bg-background/70 text-[11px] font-bold text-foreground backdrop-blur-md ring-1 ring-white/30">Before</motion.span>
         </div>
-        <div className="relative overflow-hidden group/img">
-          <img src={prompt.afterImage} alt="After" className="h-full w-full object-cover transition-transform duration-500 group-hover/img:scale-120" />
+        <div className="relative overflow-hidden group/img bg-secondary/50 flex items-center justify-center">
+          {prompt.afterImage ? (
+            <img src={prompt.afterImage} alt="After" className="h-full w-full object-cover transition-transform duration-500 group-hover/img:scale-120" />
+          ) : (
+            <div className="flex flex-col items-center justify-center text-muted-foreground/60">
+              <div className="text-3xl mb-1">📷</div>
+              <span className="text-xs">No image</span>
+            </div>
+          )}
           <motion.span whileHover={{ scale: 1.05 }} className="absolute bottom-3 left-3 px-3 py-1.5 rounded-lg bg-background/70 text-[11px] font-bold text-foreground backdrop-blur-md ring-1 ring-white/30">After</motion.span>
         </div>
       </div>

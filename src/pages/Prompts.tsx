@@ -81,13 +81,27 @@ const Prompts = () => {
 
           <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} className="bg-card rounded-2xl border border-border/60 shadow-card overflow-hidden">
             {/* Before/After */}
-            <div className="grid grid-cols-2 h-56">
-              <div className="relative overflow-hidden">
-                <img src={prompt.beforeImage} alt="Before" className="h-full w-full object-cover" />
+            <div className="grid grid-cols-2 h-56 bg-secondary/30">
+              <div className="relative overflow-hidden flex items-center justify-center bg-secondary/50">
+                {prompt.beforeImage ? (
+                  <img src={prompt.beforeImage} alt="Before" className="h-full w-full object-cover" />
+                ) : (
+                  <div className="flex flex-col items-center justify-center text-muted-foreground/60">
+                    <div className="text-5xl mb-2">📷</div>
+                    <span className="text-sm">No before image</span>
+                  </div>
+                )}
                 <span className="absolute bottom-3 left-3 px-3 py-1 rounded-lg bg-background/80 text-xs font-semibold text-foreground backdrop-blur-sm">Before</span>
               </div>
-              <div className="relative overflow-hidden">
-                <img src={prompt.afterImage} alt="After" className="h-full w-full object-cover" />
+              <div className="relative overflow-hidden flex items-center justify-center bg-secondary/50">
+                {prompt.afterImage ? (
+                  <img src={prompt.afterImage} alt="After" className="h-full w-full object-cover" />
+                ) : (
+                  <div className="flex flex-col items-center justify-center text-muted-foreground/60">
+                    <div className="text-5xl mb-2">📷</div>
+                    <span className="text-sm">No after image</span>
+                  </div>
+                )}
                 <span className="absolute bottom-3 left-3 px-3 py-1 rounded-lg bg-background/80 text-xs font-semibold text-foreground backdrop-blur-sm">After</span>
               </div>
             </div>

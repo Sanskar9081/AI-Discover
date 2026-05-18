@@ -46,6 +46,11 @@ export function SubmitPromptModal({ open, onClose }: SubmitPromptModalProps) {
       return;
     }
 
+    if (!beforePreview || !afterPreview) {
+      alert("Please upload both before and after images to showcase your prompt results");
+      return;
+    }
+
     setIsLoading(true);
     try {
       console.log('📤 Submitting prompt:', { title: formData.title, category: formData.category });
@@ -158,7 +163,7 @@ export function SubmitPromptModal({ open, onClose }: SubmitPromptModalProps) {
                 </div>
 
                 <div>
-                  <label className="block text-xs font-bold text-accent/80 tracking-wider mb-3 uppercase">Images</label>
+                  <label className="block text-xs font-bold text-accent/80 tracking-wider mb-3 uppercase">Images <span className="text-rose-500">*</span></label>
                   <div className="grid grid-cols-2 gap-4">
                     <div>
                       <label className="flex flex-col items-center gap-3 p-5 rounded-xl bg-gradient-to-br from-accent/10 to-accent/5 border-2 border-dashed border-accent/30 cursor-pointer hover:border-accent/50 hover:bg-accent/15 transition-all duration-300">

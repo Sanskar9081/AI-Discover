@@ -130,7 +130,7 @@ const Index = () => {
               <div className="flex items-center justify-center gap-8 text-sm text-muted-foreground/70">
                 <span className="flex items-center gap-2">
                   <span className="h-2 w-2 rounded-full bg-accent/60" />
-                  <span className="font-medium">700+ Tools</span>
+                  <span className="font-medium">430+ Tools</span>
                 </span>
                 <span className="flex items-center gap-2">
                   <span className="h-2 w-2 rounded-full bg-accent/60" />
