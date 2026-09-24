@@ -6,7 +6,7 @@ export const chatAssistant = async (req: Request, res: Response): Promise<any> =
     const { messages } = req.body;
     
     // Fetch all tools to provide context
-    const tools = await Tool.find({ status: 'approved' }).select('name description category rating');
+    const tools = await Tool.find({ status: 'approved' }).select('name description category rating url logoUrl').lean();
     
     const toolsList = tools
       .slice(0, 30) // Limit to 30 tools to avoid token limits
@@ -43,7 +43,7 @@ Remember: You're helping people discover tools they'll love. Make it feel like a
         'Authorization': `Bearer ${apiKey}`,
       },
       body: JSON.stringify({
-        model: 'qwen/qwen3.8-27b',
+        model: 'llama-3.1-8b-instant',
         messages: [
           { role: 'system', content: systemPrompt },
           ...messages,
@@ -54,15 +54,61 @@ Remember: You're helping people discover tools they'll love. Make it feel like a
     });
 
     if (!response.ok) {
-      const error = await response.json();
-      throw new Error(`Groq API error: ${error.error?.message || 'Unknown error'}`);
+      // Fallback to another model if the first one fails
+      const fallbackResponse = await fetch('https://api.groq.com/openai/v1/chat/completions', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          'Authorization': `Bearer ${apiKey}`,
+        },
+        body: JSON.stringify({
+          model: 'gemma2-9b-it',
+          messages: [
+            { role: 'system', content: systemPrompt },
+            ...messages,
+          ],
+          temperature: 0.7,
+          max_tokens: 450,
+        }),
+      });
+
+      if (!fallbackResponse.ok) {
+        const error = await fallbackResponse.json();
+        throw new Error(`Groq API error: ${error.error?.message || 'Unknown error'}`);
+      }
+
+      const fallbackData = await fallbackResponse.json();
+      const fallbackReply = fallbackData.choices[0]?.message?.content || '';
+      const fallbackMentioned = tools
+        .filter((tool: any) => fallbackReply.toLowerCase().includes(tool.name.toLowerCase()))
+        .map((t: any) => ({
+          id: t._id.toString(),
+          name: t.name,
+          description: t.description,
+          category: t.category,
+          rating: t.rating,
+          url: t.url,
+          logoUrl: t.logoUrl,
+        }));
+
+      return res.json({ message: fallbackReply, tools: fallbackMentioned });
     }
 
     const data = await response.json();
     const reply = data.choices[0]?.message?.content || '';
 
-    // Find mentioned tools
-    const mentionedTools = tools.filter((tool: any) => reply.toLowerCase().includes(tool.name.toLowerCase()));
+    // Find mentioned tools and serialize them properly (no raw ObjectIDs)
+    const mentionedTools = tools
+      .filter((tool: any) => reply.toLowerCase().includes(tool.name.toLowerCase()))
+      .map((t: any) => ({
+        id: t._id.toString(),
+        name: t.name,
+        description: t.description,
+        category: t.category,
+        rating: t.rating,
+        url: t.url,
+        logoUrl: t.logoUrl,
+      }));
 
     res.json({ message: reply, tools: mentionedTools });
   } catch (error: any) {
