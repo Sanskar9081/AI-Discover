@@ -1,5 +1,19 @@
 {
+  "builds": [
+    {
+      "src": "backend/src/server.ts",
+      "use": "@vercel/node"
+    },
+    {
+      "src": "package.json",
+      "use": "@vercel/static-build"
+    }
+  ],
   "rewrites": [
+    {
+      "source": "/api/(.*)",
+      "destination": "/backend/src/server.ts"
+    },
     {
       "source": "/(.*)",
       "destination": "/index.html"
