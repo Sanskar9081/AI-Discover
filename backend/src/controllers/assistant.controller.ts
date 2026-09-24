@@ -43,7 +43,7 @@ Remember: You're helping people discover tools they'll love. Make it feel like a
         'Authorization': `Bearer ${apiKey}`,
       },
       body: JSON.stringify({
-        model: 'llama-3.1-8b-instant',
+        model: 'qwen/qwen3.8-27b',
         messages: [
           { role: 'system', content: systemPrompt },
           ...messages,
@@ -62,7 +62,7 @@ Remember: You're helping people discover tools they'll love. Make it feel like a
           'Authorization': `Bearer ${apiKey}`,
         },
         body: JSON.stringify({
-          model: 'gemma2-9b-it',
+          model: 'openai/gpt-oss-20b',
           messages: [
             { role: 'system', content: systemPrompt },
             ...messages,
