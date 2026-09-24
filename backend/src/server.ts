@@ -54,10 +54,13 @@ app.use(cookieParser());
 // Database Connection
 connectDB();
 
-// API Routes
 app.use(async (req, res, next) => {
-  await connectDB();
-  next();
+  try {
+    await connectDB();
+    next();
+  } catch (error) {
+    next(error);
+  }
 });
 
 app.use('/api/auth', authRoutes);

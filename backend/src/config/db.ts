@@ -12,10 +12,11 @@ export const connectDB = async () => {
   if (!cached.promise) {
     const uri = process.env.MONGODB_URI;
     if (!uri) {
-      console.error("MONGODB_URI environment variable is not defined");
-      return;
+      throw new Error("CRITICAL: MONGODB_URI environment variable is missing in Vercel!");
     }
-    cached.promise = mongoose.connect(uri).then((mongoose) => {
+    cached.promise = mongoose.connect(uri, {
+      serverSelectionTimeoutMS: 5000,
+    }).then((mongoose) => {
       console.log(`MongoDB Connected: ${mongoose.connection.host}`);
       return mongoose;
     });
@@ -26,5 +27,6 @@ export const connectDB = async () => {
   } catch (error) {
     cached.promise = null;
     console.error(`Error connecting to MongoDB: ${error}`);
+    throw error;
   }
 };
