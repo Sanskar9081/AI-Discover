@@ -11,13 +11,11 @@
 
 <div align="center">
 
-### [Open AI-Discover](YOUR_LIVE_DEMO_URL)
+### [Open AI-Discover](https://ai-discover-nu.vercel.app/)
 
 **Discover → Explore → Filter → Evaluate → Compare → Save → Use**
 
 </div>
-
-> **Note:** Replace `https://ai-discover-nu.vercel.app/` with the actual deployed frontend URL before pushing the final README.
 
 <img width="1535" height="727" alt="image" src="https://github.com/user-attachments/assets/11f95425-224c-4a00-a297-3a602c6d0d98" />
 
