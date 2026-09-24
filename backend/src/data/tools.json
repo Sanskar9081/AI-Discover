@@ -1,0 +1,5462 @@
+[
+  {
+    "name": "ChatGPT",
+    "description": "An advanced AI tool focused on chat workflows, providing top-tier capabilities.",
+    "category": "chat",
+    "pricing": "Free",
+    "logo": "",
+    "url": "https://chat.openai.com",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Moderate",
+    "mainFunctionality": "chat AI Solution",
+    "freePlan": true,
+    "rating": "4.2",
+    "reviewCount": 1313,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "chat"
+    ],
+    "tags": [
+      "AI",
+      "chat"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Claude",
+    "description": "An advanced AI tool focused on chat workflows, providing top-tier capabilities.",
+    "category": "chat",
+    "pricing": "Free",
+    "logo": "",
+    "url": "https://claude.ai",
+    "featured": false,
+    "trending": true,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Moderate",
+    "mainFunctionality": "chat AI Solution",
+    "freePlan": false,
+    "rating": "3.8",
+    "reviewCount": 1976,
+    "isNew": true,
+    "isPremium": false,
+    "useCase": [
+      "chat"
+    ],
+    "tags": [
+      "AI",
+      "chat"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Gemini",
+    "description": "An advanced AI tool focused on chat workflows, providing top-tier capabilities.",
+    "category": "chat",
+    "pricing": "Freemium",
+    "logo": "",
+    "url": "https://gemini.google.com",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Easy",
+    "mainFunctionality": "chat AI Solution",
+    "freePlan": true,
+    "rating": "4.4",
+    "reviewCount": 1443,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "chat"
+    ],
+    "tags": [
+      "AI",
+      "chat"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Perplexity",
+    "description": "An advanced AI tool focused on chat workflows, providing top-tier capabilities.",
+    "category": "chat",
+    "pricing": "Free",
+    "logo": "",
+    "url": "https://perplexity.ai",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Advanced",
+    "mainFunctionality": "chat AI Solution",
+    "freePlan": false,
+    "rating": "4.1",
+    "reviewCount": 335,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "chat"
+    ],
+    "tags": [
+      "AI",
+      "chat"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Microsoft Copilot",
+    "description": "An advanced AI tool focused on chat workflows, providing top-tier capabilities.",
+    "category": "chat",
+    "pricing": "Free",
+    "logo": "",
+    "url": "https://copilot.microsoft.com",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Easy",
+    "mainFunctionality": "chat AI Solution",
+    "freePlan": false,
+    "rating": "4.4",
+    "reviewCount": 3868,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "chat"
+    ],
+    "tags": [
+      "AI",
+      "chat"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Grok",
+    "description": "An advanced AI tool focused on chat workflows, providing top-tier capabilities.",
+    "category": "chat",
+    "pricing": "Freemium",
+    "logo": "",
+    "url": "https://grok.x.ai",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Easy",
+    "mainFunctionality": "chat AI Solution",
+    "freePlan": true,
+    "rating": "3.9",
+    "reviewCount": 3370,
+    "isNew": false,
+    "isPremium": true,
+    "useCase": [
+      "chat"
+    ],
+    "tags": [
+      "AI",
+      "chat"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "DeepSeek",
+    "description": "An advanced AI tool focused on chat workflows, providing top-tier capabilities.",
+    "category": "chat",
+    "pricing": "Freemium",
+    "logo": "",
+    "url": "https://chat.deepseek.com",
+    "featured": false,
+    "trending": true,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Moderate",
+    "mainFunctionality": "chat AI Solution",
+    "freePlan": true,
+    "rating": "4.3",
+    "reviewCount": 3925,
+    "isNew": false,
+    "isPremium": true,
+    "useCase": [
+      "chat"
+    ],
+    "tags": [
+      "AI",
+      "chat"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Mistral",
+    "description": "An advanced AI tool focused on chat workflows, providing top-tier capabilities.",
+    "category": "chat",
+    "pricing": "Paid",
+    "logo": "",
+    "url": "https://chat.mistral.ai",
+    "featured": false,
+    "trending": true,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Advanced",
+    "mainFunctionality": "chat AI Solution",
+    "freePlan": false,
+    "rating": "4.4",
+    "reviewCount": 4661,
+    "isNew": true,
+    "isPremium": false,
+    "useCase": [
+      "chat"
+    ],
+    "tags": [
+      "AI",
+      "chat"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Meta AI",
+    "description": "An advanced AI tool focused on chat workflows, providing top-tier capabilities.",
+    "category": "chat",
+    "pricing": "Paid",
+    "logo": "",
+    "url": "https://meta.ai",
+    "featured": true,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Moderate",
+    "mainFunctionality": "chat AI Solution",
+    "freePlan": true,
+    "rating": "4.8",
+    "reviewCount": 3517,
+    "isNew": false,
+    "isPremium": true,
+    "useCase": [
+      "chat"
+    ],
+    "tags": [
+      "AI",
+      "chat"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Poe",
+    "description": "An advanced AI tool focused on chat workflows, providing top-tier capabilities.",
+    "category": "chat",
+    "pricing": "Freemium",
+    "logo": "",
+    "url": "https://poe.com",
+    "featured": false,
+    "trending": true,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Advanced",
+    "mainFunctionality": "chat AI Solution",
+    "freePlan": true,
+    "rating": "4.3",
+    "reviewCount": 519,
+    "isNew": true,
+    "isPremium": true,
+    "useCase": [
+      "chat"
+    ],
+    "tags": [
+      "AI",
+      "chat"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Pi",
+    "description": "An advanced AI tool focused on chat workflows, providing top-tier capabilities.",
+    "category": "chat",
+    "pricing": "Paid",
+    "logo": "",
+    "url": "https://pi.ai",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Easy",
+    "mainFunctionality": "chat AI Solution",
+    "freePlan": false,
+    "rating": "4.8",
+    "reviewCount": 2183,
+    "isNew": false,
+    "isPremium": true,
+    "useCase": [
+      "chat"
+    ],
+    "tags": [
+      "AI",
+      "chat"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "HuggingChat",
+    "description": "An advanced AI tool focused on chat workflows, providing top-tier capabilities.",
+    "category": "chat",
+    "pricing": "Free",
+    "logo": "",
+    "url": "https://huggingface.co/chat",
+    "featured": false,
+    "trending": true,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Moderate",
+    "mainFunctionality": "chat AI Solution",
+    "freePlan": true,
+    "rating": "4.4",
+    "reviewCount": 3901,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "chat"
+    ],
+    "tags": [
+      "AI",
+      "chat"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "You.com",
+    "description": "An advanced AI tool focused on chat workflows, providing top-tier capabilities.",
+    "category": "chat",
+    "pricing": "Free",
+    "logo": "",
+    "url": "https://you.com",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Moderate",
+    "mainFunctionality": "chat AI Solution",
+    "freePlan": true,
+    "rating": "4.2",
+    "reviewCount": 2583,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "chat"
+    ],
+    "tags": [
+      "AI",
+      "chat"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "ChatSonic",
+    "description": "An advanced AI tool focused on chat workflows, providing top-tier capabilities.",
+    "category": "chat",
+    "pricing": "Paid",
+    "logo": "",
+    "url": "https://writesonic.com/chat",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Advanced",
+    "mainFunctionality": "chat AI Solution",
+    "freePlan": true,
+    "rating": "4.7",
+    "reviewCount": 2528,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "chat"
+    ],
+    "tags": [
+      "AI",
+      "chat"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Kuki",
+    "description": "An advanced AI tool focused on chat workflows, providing top-tier capabilities.",
+    "category": "chat",
+    "pricing": "Freemium",
+    "logo": "",
+    "url": "https://kuki.ai",
+    "featured": true,
+    "trending": true,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Easy",
+    "mainFunctionality": "chat AI Solution",
+    "freePlan": true,
+    "rating": "4.7",
+    "reviewCount": 1457,
+    "isNew": true,
+    "isPremium": true,
+    "useCase": [
+      "chat"
+    ],
+    "tags": [
+      "AI",
+      "chat"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Replika",
+    "description": "An advanced AI tool focused on chat workflows, providing top-tier capabilities.",
+    "category": "chat",
+    "pricing": "Freemium",
+    "logo": "",
+    "url": "https://replika.com",
+    "featured": false,
+    "trending": true,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Advanced",
+    "mainFunctionality": "chat AI Solution",
+    "freePlan": true,
+    "rating": "3.7",
+    "reviewCount": 3476,
+    "isNew": true,
+    "isPremium": false,
+    "useCase": [
+      "chat"
+    ],
+    "tags": [
+      "AI",
+      "chat"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Character.AI",
+    "description": "An advanced AI tool focused on chat workflows, providing top-tier capabilities.",
+    "category": "chat",
+    "pricing": "Freemium",
+    "logo": "",
+    "url": "https://character.ai",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Advanced",
+    "mainFunctionality": "chat AI Solution",
+    "freePlan": false,
+    "rating": "4.5",
+    "reviewCount": 1201,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "chat"
+    ],
+    "tags": [
+      "AI",
+      "chat"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Jasper Chat",
+    "description": "An advanced AI tool focused on chat workflows, providing top-tier capabilities.",
+    "category": "chat",
+    "pricing": "Paid",
+    "logo": "",
+    "url": "https://jasper.ai",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Advanced",
+    "mainFunctionality": "chat AI Solution",
+    "freePlan": true,
+    "rating": "4.5",
+    "reviewCount": 736,
+    "isNew": false,
+    "isPremium": true,
+    "useCase": [
+      "chat"
+    ],
+    "tags": [
+      "AI",
+      "chat"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Ora",
+    "description": "An advanced AI tool focused on chat workflows, providing top-tier capabilities.",
+    "category": "chat",
+    "pricing": "Paid",
+    "logo": "",
+    "url": "https://ora.ai",
+    "featured": false,
+    "trending": true,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Moderate",
+    "mainFunctionality": "chat AI Solution",
+    "freePlan": true,
+    "rating": "4.9",
+    "reviewCount": 3301,
+    "isNew": true,
+    "isPremium": true,
+    "useCase": [
+      "chat"
+    ],
+    "tags": [
+      "AI",
+      "chat"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Phind",
+    "description": "An advanced AI tool focused on coding workflows, providing top-tier capabilities.",
+    "category": "coding",
+    "pricing": "Free",
+    "logo": "",
+    "url": "https://phind.com",
+    "featured": true,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Easy",
+    "mainFunctionality": "coding AI Solution",
+    "freePlan": true,
+    "rating": "4.0",
+    "reviewCount": 1165,
+    "isNew": true,
+    "isPremium": false,
+    "useCase": [
+      "coding"
+    ],
+    "tags": [
+      "AI",
+      "coding"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Midjourney",
+    "description": "An advanced AI tool focused on image workflows, providing top-tier capabilities.",
+    "category": "image",
+    "pricing": "Paid",
+    "logo": "",
+    "url": "https://midjourney.com",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Moderate",
+    "mainFunctionality": "image AI Solution",
+    "freePlan": true,
+    "rating": "4.5",
+    "reviewCount": 1998,
+    "isNew": true,
+    "isPremium": false,
+    "useCase": [
+      "image"
+    ],
+    "tags": [
+      "AI",
+      "image"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Adobe Firefly",
+    "description": "An advanced AI tool focused on image workflows, providing top-tier capabilities.",
+    "category": "image",
+    "pricing": "Paid",
+    "logo": "",
+    "url": "https://firefly.adobe.com",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Advanced",
+    "mainFunctionality": "image AI Solution",
+    "freePlan": true,
+    "rating": "4.0",
+    "reviewCount": 4882,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "image"
+    ],
+    "tags": [
+      "AI",
+      "image"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Ideogram",
+    "description": "An advanced AI tool focused on image workflows, providing top-tier capabilities.",
+    "category": "image",
+    "pricing": "Free",
+    "logo": "",
+    "url": "https://ideogram.ai",
+    "featured": false,
+    "trending": true,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Moderate",
+    "mainFunctionality": "image AI Solution",
+    "freePlan": true,
+    "rating": "4.3",
+    "reviewCount": 3525,
+    "isNew": true,
+    "isPremium": false,
+    "useCase": [
+      "image"
+    ],
+    "tags": [
+      "AI",
+      "image"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Leonardo AI",
+    "description": "An advanced AI tool focused on image workflows, providing top-tier capabilities.",
+    "category": "image",
+    "pricing": "Free",
+    "logo": "",
+    "url": "https://leonardo.ai",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Easy",
+    "mainFunctionality": "image AI Solution",
+    "freePlan": false,
+    "rating": "4.3",
+    "reviewCount": 4738,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "image"
+    ],
+    "tags": [
+      "AI",
+      "image"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Recraft",
+    "description": "An advanced AI tool focused on image workflows, providing top-tier capabilities.",
+    "category": "image",
+    "pricing": "Free",
+    "logo": "",
+    "url": "https://recraft.ai",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Moderate",
+    "mainFunctionality": "image AI Solution",
+    "freePlan": false,
+    "rating": "4.2",
+    "reviewCount": 299,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "image"
+    ],
+    "tags": [
+      "AI",
+      "image"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Stable Diffusion",
+    "description": "An advanced AI tool focused on image workflows, providing top-tier capabilities.",
+    "category": "image",
+    "pricing": "Freemium",
+    "logo": "",
+    "url": "https://stability.ai",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Moderate",
+    "mainFunctionality": "image AI Solution",
+    "freePlan": false,
+    "rating": "4.8",
+    "reviewCount": 1691,
+    "isNew": true,
+    "isPremium": true,
+    "useCase": [
+      "image"
+    ],
+    "tags": [
+      "AI",
+      "image"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Flux",
+    "description": "An advanced AI tool focused on image workflows, providing top-tier capabilities.",
+    "category": "image",
+    "pricing": "Freemium",
+    "logo": "",
+    "url": "https://blackforestlabs.ai",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Easy",
+    "mainFunctionality": "image AI Solution",
+    "freePlan": false,
+    "rating": "4.5",
+    "reviewCount": 3792,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "image"
+    ],
+    "tags": [
+      "AI",
+      "image"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Canva AI",
+    "description": "An advanced AI tool focused on image workflows, providing top-tier capabilities.",
+    "category": "image",
+    "pricing": "Free",
+    "logo": "",
+    "url": "https://canva.com",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Easy",
+    "mainFunctionality": "image AI Solution",
+    "freePlan": false,
+    "rating": "4.9",
+    "reviewCount": 4341,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "image"
+    ],
+    "tags": [
+      "AI",
+      "image"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "DALL-E 3",
+    "description": "An advanced AI tool focused on image workflows, providing top-tier capabilities.",
+    "category": "image",
+    "pricing": "Freemium",
+    "logo": "",
+    "url": "https://openai.com/dall-e-3",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Advanced",
+    "mainFunctionality": "image AI Solution",
+    "freePlan": true,
+    "rating": "4.1",
+    "reviewCount": 527,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "image"
+    ],
+    "tags": [
+      "AI",
+      "image"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Krea",
+    "description": "An advanced AI tool focused on image workflows, providing top-tier capabilities.",
+    "category": "image",
+    "pricing": "Freemium",
+    "logo": "",
+    "url": "https://krea.ai",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Advanced",
+    "mainFunctionality": "image AI Solution",
+    "freePlan": false,
+    "rating": "3.6",
+    "reviewCount": 1214,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "image"
+    ],
+    "tags": [
+      "AI",
+      "image"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Playground AI",
+    "description": "An advanced AI tool focused on image workflows, providing top-tier capabilities.",
+    "category": "image",
+    "pricing": "Freemium",
+    "logo": "",
+    "url": "https://playgroundai.com",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Easy",
+    "mainFunctionality": "image AI Solution",
+    "freePlan": true,
+    "rating": "4.4",
+    "reviewCount": 3021,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "image"
+    ],
+    "tags": [
+      "AI",
+      "image"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Tensor.art",
+    "description": "An advanced AI tool focused on image workflows, providing top-tier capabilities.",
+    "category": "image",
+    "pricing": "Freemium",
+    "logo": "",
+    "url": "https://tensor.art",
+    "featured": false,
+    "trending": true,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Moderate",
+    "mainFunctionality": "image AI Solution",
+    "freePlan": true,
+    "rating": "4.5",
+    "reviewCount": 2336,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "image"
+    ],
+    "tags": [
+      "AI",
+      "image"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "SeaArt",
+    "description": "An advanced AI tool focused on image workflows, providing top-tier capabilities.",
+    "category": "image",
+    "pricing": "Paid",
+    "logo": "",
+    "url": "https://seaart.ai",
+    "featured": false,
+    "trending": true,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Easy",
+    "mainFunctionality": "image AI Solution",
+    "freePlan": true,
+    "rating": "3.9",
+    "reviewCount": 3318,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "image"
+    ],
+    "tags": [
+      "AI",
+      "image"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Lexica",
+    "description": "An advanced AI tool focused on image workflows, providing top-tier capabilities.",
+    "category": "image",
+    "pricing": "Paid",
+    "logo": "",
+    "url": "https://lexica.art",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Moderate",
+    "mainFunctionality": "image AI Solution",
+    "freePlan": false,
+    "rating": "3.6",
+    "reviewCount": 1480,
+    "isNew": false,
+    "isPremium": true,
+    "useCase": [
+      "image"
+    ],
+    "tags": [
+      "AI",
+      "image"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Mage.space",
+    "description": "An advanced AI tool focused on image workflows, providing top-tier capabilities.",
+    "category": "image",
+    "pricing": "Paid",
+    "logo": "",
+    "url": "https://mage.space",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Moderate",
+    "mainFunctionality": "image AI Solution",
+    "freePlan": false,
+    "rating": "4.0",
+    "reviewCount": 4347,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "image"
+    ],
+    "tags": [
+      "AI",
+      "image"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Civitai",
+    "description": "An advanced AI tool focused on image workflows, providing top-tier capabilities.",
+    "category": "image",
+    "pricing": "Freemium",
+    "logo": "",
+    "url": "https://civitai.com",
+    "featured": false,
+    "trending": true,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Advanced",
+    "mainFunctionality": "image AI Solution",
+    "freePlan": true,
+    "rating": "4.8",
+    "reviewCount": 2465,
+    "isNew": true,
+    "isPremium": true,
+    "useCase": [
+      "image"
+    ],
+    "tags": [
+      "AI",
+      "image"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "NightCafe",
+    "description": "An advanced AI tool focused on image workflows, providing top-tier capabilities.",
+    "category": "image",
+    "pricing": "Paid",
+    "logo": "",
+    "url": "https://nightcafe.studio",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Easy",
+    "mainFunctionality": "image AI Solution",
+    "freePlan": false,
+    "rating": "4.8",
+    "reviewCount": 3561,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "image"
+    ],
+    "tags": [
+      "AI",
+      "image"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "StarryAI",
+    "description": "An advanced AI tool focused on image workflows, providing top-tier capabilities.",
+    "category": "image",
+    "pricing": "Paid",
+    "logo": "",
+    "url": "https://starryai.com",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Advanced",
+    "mainFunctionality": "image AI Solution",
+    "freePlan": false,
+    "rating": "4.6",
+    "reviewCount": 1771,
+    "isNew": true,
+    "isPremium": false,
+    "useCase": [
+      "image"
+    ],
+    "tags": [
+      "AI",
+      "image"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Craiyon",
+    "description": "An advanced AI tool focused on image workflows, providing top-tier capabilities.",
+    "category": "image",
+    "pricing": "Paid",
+    "logo": "",
+    "url": "https://craiyon.com",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Easy",
+    "mainFunctionality": "image AI Solution",
+    "freePlan": true,
+    "rating": "4.2",
+    "reviewCount": 1453,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "image"
+    ],
+    "tags": [
+      "AI",
+      "image"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Artbreeder",
+    "description": "An advanced AI tool focused on image workflows, providing top-tier capabilities.",
+    "category": "image",
+    "pricing": "Paid",
+    "logo": "",
+    "url": "https://artbreeder.com",
+    "featured": true,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Moderate",
+    "mainFunctionality": "image AI Solution",
+    "freePlan": true,
+    "rating": "3.9",
+    "reviewCount": 4274,
+    "isNew": false,
+    "isPremium": true,
+    "useCase": [
+      "image"
+    ],
+    "tags": [
+      "AI",
+      "image"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "DeepAI",
+    "description": "An advanced AI tool focused on image workflows, providing top-tier capabilities.",
+    "category": "image",
+    "pricing": "Freemium",
+    "logo": "",
+    "url": "https://deepai.org",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Moderate",
+    "mainFunctionality": "image AI Solution",
+    "freePlan": false,
+    "rating": "4.2",
+    "reviewCount": 5049,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "image"
+    ],
+    "tags": [
+      "AI",
+      "image"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Dream by WOMBO",
+    "description": "An advanced AI tool focused on image workflows, providing top-tier capabilities.",
+    "category": "image",
+    "pricing": "Freemium",
+    "logo": "",
+    "url": "https://dream.ai",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Moderate",
+    "mainFunctionality": "image AI Solution",
+    "freePlan": true,
+    "rating": "4.9",
+    "reviewCount": 2508,
+    "isNew": false,
+    "isPremium": true,
+    "useCase": [
+      "image"
+    ],
+    "tags": [
+      "AI",
+      "image"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Pikazo",
+    "description": "An advanced AI tool focused on image workflows, providing top-tier capabilities.",
+    "category": "image",
+    "pricing": "Paid",
+    "logo": "",
+    "url": "https://pikazoapp.com",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Easy",
+    "mainFunctionality": "image AI Solution",
+    "freePlan": true,
+    "rating": "4.7",
+    "reviewCount": 2524,
+    "isNew": false,
+    "isPremium": true,
+    "useCase": [
+      "image"
+    ],
+    "tags": [
+      "AI",
+      "image"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "DeepDream",
+    "description": "An advanced AI tool focused on image workflows, providing top-tier capabilities.",
+    "category": "image",
+    "pricing": "Paid",
+    "logo": "",
+    "url": "https://deepdreamgenerator.com",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Easy",
+    "mainFunctionality": "image AI Solution",
+    "freePlan": false,
+    "rating": "4.1",
+    "reviewCount": 935,
+    "isNew": true,
+    "isPremium": false,
+    "useCase": [
+      "image"
+    ],
+    "tags": [
+      "AI",
+      "image"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Runway",
+    "description": "An advanced AI tool focused on video workflows, providing top-tier capabilities.",
+    "category": "video",
+    "pricing": "Paid",
+    "logo": "",
+    "url": "https://runwayml.com",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Advanced",
+    "mainFunctionality": "video AI Solution",
+    "freePlan": true,
+    "rating": "4.6",
+    "reviewCount": 3130,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "video"
+    ],
+    "tags": [
+      "AI",
+      "video"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Pika",
+    "description": "An advanced AI tool focused on video workflows, providing top-tier capabilities.",
+    "category": "video",
+    "pricing": "Freemium",
+    "logo": "",
+    "url": "https://pika.art",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Advanced",
+    "mainFunctionality": "video AI Solution",
+    "freePlan": true,
+    "rating": "4.0",
+    "reviewCount": 925,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "video"
+    ],
+    "tags": [
+      "AI",
+      "video"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Luma Dream Machine",
+    "description": "An advanced AI tool focused on video workflows, providing top-tier capabilities.",
+    "category": "video",
+    "pricing": "Paid",
+    "logo": "",
+    "url": "https://lumalabs.ai/dream-machine",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Advanced",
+    "mainFunctionality": "video AI Solution",
+    "freePlan": false,
+    "rating": "3.7",
+    "reviewCount": 521,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "video"
+    ],
+    "tags": [
+      "AI",
+      "video"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Kling AI",
+    "description": "An advanced AI tool focused on video workflows, providing top-tier capabilities.",
+    "category": "video",
+    "pricing": "Free",
+    "logo": "",
+    "url": "https://klingai.com",
+    "featured": true,
+    "trending": true,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Easy",
+    "mainFunctionality": "video AI Solution",
+    "freePlan": false,
+    "rating": "4.2",
+    "reviewCount": 5021,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "video"
+    ],
+    "tags": [
+      "AI",
+      "video"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Synthesia",
+    "description": "An advanced AI tool focused on video workflows, providing top-tier capabilities.",
+    "category": "video",
+    "pricing": "Free",
+    "logo": "",
+    "url": "https://synthesia.io",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Easy",
+    "mainFunctionality": "video AI Solution",
+    "freePlan": false,
+    "rating": "4.4",
+    "reviewCount": 4888,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "video"
+    ],
+    "tags": [
+      "AI",
+      "video"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "HeyGen",
+    "description": "An advanced AI tool focused on video workflows, providing top-tier capabilities.",
+    "category": "video",
+    "pricing": "Paid",
+    "logo": "",
+    "url": "https://heygen.com",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Advanced",
+    "mainFunctionality": "video AI Solution",
+    "freePlan": false,
+    "rating": "4.9",
+    "reviewCount": 2216,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "video"
+    ],
+    "tags": [
+      "AI",
+      "video"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "InVideo",
+    "description": "An advanced AI tool focused on video workflows, providing top-tier capabilities.",
+    "category": "video",
+    "pricing": "Freemium",
+    "logo": "",
+    "url": "https://invideo.io",
+    "featured": false,
+    "trending": true,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Moderate",
+    "mainFunctionality": "video AI Solution",
+    "freePlan": false,
+    "rating": "4.2",
+    "reviewCount": 2562,
+    "isNew": true,
+    "isPremium": false,
+    "useCase": [
+      "video"
+    ],
+    "tags": [
+      "AI",
+      "video"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "VEED",
+    "description": "An advanced AI tool focused on video workflows, providing top-tier capabilities.",
+    "category": "video",
+    "pricing": "Free",
+    "logo": "",
+    "url": "https://veed.io",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Easy",
+    "mainFunctionality": "video AI Solution",
+    "freePlan": false,
+    "rating": "4.8",
+    "reviewCount": 928,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "video"
+    ],
+    "tags": [
+      "AI",
+      "video"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Sora",
+    "description": "An advanced AI tool focused on video workflows, providing top-tier capabilities.",
+    "category": "video",
+    "pricing": "Freemium",
+    "logo": "",
+    "url": "https://openai.com/sora",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Advanced",
+    "mainFunctionality": "video AI Solution",
+    "freePlan": true,
+    "rating": "4.9",
+    "reviewCount": 1148,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "video"
+    ],
+    "tags": [
+      "AI",
+      "video"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Opus Clip",
+    "description": "An advanced AI tool focused on video workflows, providing top-tier capabilities.",
+    "category": "video",
+    "pricing": "Free",
+    "logo": "",
+    "url": "https://opus.pro",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Advanced",
+    "mainFunctionality": "video AI Solution",
+    "freePlan": false,
+    "rating": "4.2",
+    "reviewCount": 1193,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "video"
+    ],
+    "tags": [
+      "AI",
+      "video"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "CapCut AI",
+    "description": "An advanced AI tool focused on video workflows, providing top-tier capabilities.",
+    "category": "video",
+    "pricing": "Paid",
+    "logo": "",
+    "url": "https://capcut.com",
+    "featured": false,
+    "trending": true,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Easy",
+    "mainFunctionality": "video AI Solution",
+    "freePlan": false,
+    "rating": "3.9",
+    "reviewCount": 3901,
+    "isNew": false,
+    "isPremium": true,
+    "useCase": [
+      "video"
+    ],
+    "tags": [
+      "AI",
+      "video"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Pictory",
+    "description": "An advanced AI tool focused on video workflows, providing top-tier capabilities.",
+    "category": "video",
+    "pricing": "Freemium",
+    "logo": "",
+    "url": "https://pictory.ai",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Advanced",
+    "mainFunctionality": "video AI Solution",
+    "freePlan": false,
+    "rating": "4.4",
+    "reviewCount": 171,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "video"
+    ],
+    "tags": [
+      "AI",
+      "video"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Munch",
+    "description": "An advanced AI tool focused on video workflows, providing top-tier capabilities.",
+    "category": "video",
+    "pricing": "Free",
+    "logo": "",
+    "url": "https://getmunch.com",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Easy",
+    "mainFunctionality": "video AI Solution",
+    "freePlan": false,
+    "rating": "4.0",
+    "reviewCount": 2731,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "video"
+    ],
+    "tags": [
+      "AI",
+      "video"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Kaiber",
+    "description": "An advanced AI tool focused on video workflows, providing top-tier capabilities.",
+    "category": "video",
+    "pricing": "Free",
+    "logo": "",
+    "url": "https://kaiber.ai",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Easy",
+    "mainFunctionality": "video AI Solution",
+    "freePlan": false,
+    "rating": "4.6",
+    "reviewCount": 4831,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "video"
+    ],
+    "tags": [
+      "AI",
+      "video"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Descript",
+    "description": "An advanced AI tool focused on video workflows, providing top-tier capabilities.",
+    "category": "video",
+    "pricing": "Freemium",
+    "logo": "",
+    "url": "https://descript.com",
+    "featured": true,
+    "trending": true,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Moderate",
+    "mainFunctionality": "video AI Solution",
+    "freePlan": true,
+    "rating": "4.0",
+    "reviewCount": 4972,
+    "isNew": true,
+    "isPremium": true,
+    "useCase": [
+      "video"
+    ],
+    "tags": [
+      "AI",
+      "video"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Fliki",
+    "description": "An advanced AI tool focused on video workflows, providing top-tier capabilities.",
+    "category": "video",
+    "pricing": "Freemium",
+    "logo": "",
+    "url": "https://fliki.ai",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Easy",
+    "mainFunctionality": "video AI Solution",
+    "freePlan": true,
+    "rating": "3.9",
+    "reviewCount": 415,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "video"
+    ],
+    "tags": [
+      "AI",
+      "video"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Colossyan",
+    "description": "An advanced AI tool focused on video workflows, providing top-tier capabilities.",
+    "category": "video",
+    "pricing": "Paid",
+    "logo": "",
+    "url": "https://colossyan.com",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Advanced",
+    "mainFunctionality": "video AI Solution",
+    "freePlan": true,
+    "rating": "4.7",
+    "reviewCount": 3818,
+    "isNew": true,
+    "isPremium": false,
+    "useCase": [
+      "video"
+    ],
+    "tags": [
+      "AI",
+      "video"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "D-ID",
+    "description": "An advanced AI tool focused on video workflows, providing top-tier capabilities.",
+    "category": "video",
+    "pricing": "Paid",
+    "logo": "",
+    "url": "https://d-id.com",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Moderate",
+    "mainFunctionality": "video AI Solution",
+    "freePlan": false,
+    "rating": "3.7",
+    "reviewCount": 5062,
+    "isNew": true,
+    "isPremium": false,
+    "useCase": [
+      "video"
+    ],
+    "tags": [
+      "AI",
+      "video"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Visla",
+    "description": "An advanced AI tool focused on video workflows, providing top-tier capabilities.",
+    "category": "video",
+    "pricing": "Paid",
+    "logo": "",
+    "url": "https://visla.us",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Easy",
+    "mainFunctionality": "video AI Solution",
+    "freePlan": false,
+    "rating": "3.6",
+    "reviewCount": 3534,
+    "isNew": false,
+    "isPremium": true,
+    "useCase": [
+      "video"
+    ],
+    "tags": [
+      "AI",
+      "video"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "GliaCloud",
+    "description": "An advanced AI tool focused on video workflows, providing top-tier capabilities.",
+    "category": "video",
+    "pricing": "Paid",
+    "logo": "",
+    "url": "https://gliacloud.com",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Moderate",
+    "mainFunctionality": "video AI Solution",
+    "freePlan": true,
+    "rating": "3.9",
+    "reviewCount": 920,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "video"
+    ],
+    "tags": [
+      "AI",
+      "video"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Steve AI",
+    "description": "An advanced AI tool focused on video workflows, providing top-tier capabilities.",
+    "category": "video",
+    "pricing": "Free",
+    "logo": "",
+    "url": "https://steve.ai",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Easy",
+    "mainFunctionality": "video AI Solution",
+    "freePlan": true,
+    "rating": "5.0",
+    "reviewCount": 1439,
+    "isNew": false,
+    "isPremium": true,
+    "useCase": [
+      "video"
+    ],
+    "tags": [
+      "AI",
+      "video"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "DeepBrain AI",
+    "description": "An advanced AI tool focused on video workflows, providing top-tier capabilities.",
+    "category": "video",
+    "pricing": "Free",
+    "logo": "",
+    "url": "https://deepbrain.io",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Moderate",
+    "mainFunctionality": "video AI Solution",
+    "freePlan": true,
+    "rating": "4.2",
+    "reviewCount": 3095,
+    "isNew": true,
+    "isPremium": false,
+    "useCase": [
+      "video"
+    ],
+    "tags": [
+      "AI",
+      "video"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "ElevenLabs",
+    "description": "An advanced AI tool focused on audio workflows, providing top-tier capabilities.",
+    "category": "audio",
+    "pricing": "Paid",
+    "logo": "",
+    "url": "https://elevenlabs.io",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Easy",
+    "mainFunctionality": "audio AI Solution",
+    "freePlan": true,
+    "rating": "4.4",
+    "reviewCount": 375,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "audio"
+    ],
+    "tags": [
+      "AI",
+      "audio"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Suno",
+    "description": "An advanced AI tool focused on audio workflows, providing top-tier capabilities.",
+    "category": "audio",
+    "pricing": "Paid",
+    "logo": "",
+    "url": "https://suno.com",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Moderate",
+    "mainFunctionality": "audio AI Solution",
+    "freePlan": false,
+    "rating": "3.7",
+    "reviewCount": 3253,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "audio"
+    ],
+    "tags": [
+      "AI",
+      "audio"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Udio",
+    "description": "An advanced AI tool focused on audio workflows, providing top-tier capabilities.",
+    "category": "audio",
+    "pricing": "Free",
+    "logo": "",
+    "url": "https://udio.com",
+    "featured": true,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Advanced",
+    "mainFunctionality": "audio AI Solution",
+    "freePlan": false,
+    "rating": "3.5",
+    "reviewCount": 961,
+    "isNew": false,
+    "isPremium": true,
+    "useCase": [
+      "audio"
+    ],
+    "tags": [
+      "AI",
+      "audio"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Murf",
+    "description": "An advanced AI tool focused on audio workflows, providing top-tier capabilities.",
+    "category": "audio",
+    "pricing": "Freemium",
+    "logo": "",
+    "url": "https://murf.ai",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Easy",
+    "mainFunctionality": "audio AI Solution",
+    "freePlan": false,
+    "rating": "3.6",
+    "reviewCount": 4305,
+    "isNew": true,
+    "isPremium": false,
+    "useCase": [
+      "audio"
+    ],
+    "tags": [
+      "AI",
+      "audio"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Adobe Podcast",
+    "description": "An advanced AI tool focused on audio workflows, providing top-tier capabilities.",
+    "category": "audio",
+    "pricing": "Free",
+    "logo": "",
+    "url": "https://podcast.adobe.com",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Easy",
+    "mainFunctionality": "audio AI Solution",
+    "freePlan": false,
+    "rating": "3.8",
+    "reviewCount": 960,
+    "isNew": false,
+    "isPremium": true,
+    "useCase": [
+      "audio"
+    ],
+    "tags": [
+      "AI",
+      "audio"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Lovo",
+    "description": "An advanced AI tool focused on audio workflows, providing top-tier capabilities.",
+    "category": "audio",
+    "pricing": "Free",
+    "logo": "",
+    "url": "https://lovo.ai",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Easy",
+    "mainFunctionality": "audio AI Solution",
+    "freePlan": false,
+    "rating": "4.2",
+    "reviewCount": 4334,
+    "isNew": true,
+    "isPremium": false,
+    "useCase": [
+      "audio"
+    ],
+    "tags": [
+      "AI",
+      "audio"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Resemble AI",
+    "description": "An advanced AI tool focused on audio workflows, providing top-tier capabilities.",
+    "category": "audio",
+    "pricing": "Paid",
+    "logo": "",
+    "url": "https://resemble.ai",
+    "featured": false,
+    "trending": true,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Moderate",
+    "mainFunctionality": "audio AI Solution",
+    "freePlan": false,
+    "rating": "4.0",
+    "reviewCount": 2437,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "audio"
+    ],
+    "tags": [
+      "AI",
+      "audio"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Voiceify",
+    "description": "An advanced AI tool focused on audio workflows, providing top-tier capabilities.",
+    "category": "audio",
+    "pricing": "Freemium",
+    "logo": "",
+    "url": "https://voiceify.ai",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Moderate",
+    "mainFunctionality": "audio AI Solution",
+    "freePlan": false,
+    "rating": "4.4",
+    "reviewCount": 4682,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "audio"
+    ],
+    "tags": [
+      "AI",
+      "audio"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Play.ht",
+    "description": "An advanced AI tool focused on audio workflows, providing top-tier capabilities.",
+    "category": "audio",
+    "pricing": "Freemium",
+    "logo": "",
+    "url": "https://play.ht",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Advanced",
+    "mainFunctionality": "audio AI Solution",
+    "freePlan": false,
+    "rating": "4.1",
+    "reviewCount": 1872,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "audio"
+    ],
+    "tags": [
+      "AI",
+      "audio"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Suno AI",
+    "description": "An advanced AI tool focused on audio workflows, providing top-tier capabilities.",
+    "category": "audio",
+    "pricing": "Paid",
+    "logo": "",
+    "url": "https://suno.ai",
+    "featured": false,
+    "trending": true,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Moderate",
+    "mainFunctionality": "audio AI Solution",
+    "freePlan": true,
+    "rating": "4.8",
+    "reviewCount": 1971,
+    "isNew": true,
+    "isPremium": false,
+    "useCase": [
+      "audio"
+    ],
+    "tags": [
+      "AI",
+      "audio"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "WellSaid Labs",
+    "description": "An advanced AI tool focused on audio workflows, providing top-tier capabilities.",
+    "category": "audio",
+    "pricing": "Free",
+    "logo": "",
+    "url": "https://wellsaidlabs.com",
+    "featured": false,
+    "trending": true,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Easy",
+    "mainFunctionality": "audio AI Solution",
+    "freePlan": true,
+    "rating": "4.4",
+    "reviewCount": 3465,
+    "isNew": true,
+    "isPremium": false,
+    "useCase": [
+      "audio"
+    ],
+    "tags": [
+      "AI",
+      "audio"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Listnr",
+    "description": "An advanced AI tool focused on audio workflows, providing top-tier capabilities.",
+    "category": "audio",
+    "pricing": "Paid",
+    "logo": "",
+    "url": "https://listnr.fm",
+    "featured": false,
+    "trending": true,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Moderate",
+    "mainFunctionality": "audio AI Solution",
+    "freePlan": true,
+    "rating": "3.5",
+    "reviewCount": 1470,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "audio"
+    ],
+    "tags": [
+      "AI",
+      "audio"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Mubert",
+    "description": "An advanced AI tool focused on audio workflows, providing top-tier capabilities.",
+    "category": "audio",
+    "pricing": "Freemium",
+    "logo": "",
+    "url": "https://mubert.com",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Moderate",
+    "mainFunctionality": "audio AI Solution",
+    "freePlan": true,
+    "rating": "4.5",
+    "reviewCount": 3754,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "audio"
+    ],
+    "tags": [
+      "AI",
+      "audio"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Boomy",
+    "description": "An advanced AI tool focused on audio workflows, providing top-tier capabilities.",
+    "category": "audio",
+    "pricing": "Freemium",
+    "logo": "",
+    "url": "https://boomy.com",
+    "featured": false,
+    "trending": true,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Advanced",
+    "mainFunctionality": "audio AI Solution",
+    "freePlan": false,
+    "rating": "4.7",
+    "reviewCount": 3583,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "audio"
+    ],
+    "tags": [
+      "AI",
+      "audio"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Soundraw",
+    "description": "An advanced AI tool focused on audio workflows, providing top-tier capabilities.",
+    "category": "audio",
+    "pricing": "Paid",
+    "logo": "",
+    "url": "https://soundraw.io",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Easy",
+    "mainFunctionality": "audio AI Solution",
+    "freePlan": true,
+    "rating": "4.8",
+    "reviewCount": 3631,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "audio"
+    ],
+    "tags": [
+      "AI",
+      "audio"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Beatoven",
+    "description": "An advanced AI tool focused on audio workflows, providing top-tier capabilities.",
+    "category": "audio",
+    "pricing": "Freemium",
+    "logo": "",
+    "url": "https://beatoven.ai",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Easy",
+    "mainFunctionality": "audio AI Solution",
+    "freePlan": true,
+    "rating": "3.9",
+    "reviewCount": 1307,
+    "isNew": true,
+    "isPremium": false,
+    "useCase": [
+      "audio"
+    ],
+    "tags": [
+      "AI",
+      "audio"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Voicemaker",
+    "description": "An advanced AI tool focused on audio workflows, providing top-tier capabilities.",
+    "category": "audio",
+    "pricing": "Paid",
+    "logo": "",
+    "url": "https://voicemaker.in",
+    "featured": true,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Easy",
+    "mainFunctionality": "audio AI Solution",
+    "freePlan": true,
+    "rating": "4.7",
+    "reviewCount": 1824,
+    "isNew": true,
+    "isPremium": false,
+    "useCase": [
+      "audio"
+    ],
+    "tags": [
+      "AI",
+      "audio"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Respeecher",
+    "description": "An advanced AI tool focused on audio workflows, providing top-tier capabilities.",
+    "category": "audio",
+    "pricing": "Free",
+    "logo": "",
+    "url": "https://respeecher.com",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Advanced",
+    "mainFunctionality": "audio AI Solution",
+    "freePlan": true,
+    "rating": "4.2",
+    "reviewCount": 4143,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "audio"
+    ],
+    "tags": [
+      "AI",
+      "audio"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "GitHub Copilot",
+    "description": "An advanced AI tool focused on coding workflows, providing top-tier capabilities.",
+    "category": "coding",
+    "pricing": "Freemium",
+    "logo": "",
+    "url": "https://github.com/features/copilot",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Moderate",
+    "mainFunctionality": "coding AI Solution",
+    "freePlan": false,
+    "rating": "3.6",
+    "reviewCount": 2545,
+    "isNew": true,
+    "isPremium": true,
+    "useCase": [
+      "coding"
+    ],
+    "tags": [
+      "AI",
+      "coding"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Cursor",
+    "description": "An advanced AI tool focused on coding workflows, providing top-tier capabilities.",
+    "category": "coding",
+    "pricing": "Freemium",
+    "logo": "",
+    "url": "https://cursor.sh",
+    "featured": false,
+    "trending": true,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Advanced",
+    "mainFunctionality": "coding AI Solution",
+    "freePlan": false,
+    "rating": "4.8",
+    "reviewCount": 3127,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "coding"
+    ],
+    "tags": [
+      "AI",
+      "coding"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Windsurf",
+    "description": "An advanced AI tool focused on coding workflows, providing top-tier capabilities.",
+    "category": "coding",
+    "pricing": "Paid",
+    "logo": "",
+    "url": "https://codeium.com/windsurf",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Advanced",
+    "mainFunctionality": "coding AI Solution",
+    "freePlan": true,
+    "rating": "4.4",
+    "reviewCount": 302,
+    "isNew": false,
+    "isPremium": true,
+    "useCase": [
+      "coding"
+    ],
+    "tags": [
+      "AI",
+      "coding"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Replit",
+    "description": "An advanced AI tool focused on coding workflows, providing top-tier capabilities.",
+    "category": "coding",
+    "pricing": "Free",
+    "logo": "",
+    "url": "https://replit.com",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Moderate",
+    "mainFunctionality": "coding AI Solution",
+    "freePlan": true,
+    "rating": "4.0",
+    "reviewCount": 279,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "coding"
+    ],
+    "tags": [
+      "AI",
+      "coding"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Codeium",
+    "description": "An advanced AI tool focused on coding workflows, providing top-tier capabilities.",
+    "category": "coding",
+    "pricing": "Paid",
+    "logo": "",
+    "url": "https://codeium.com",
+    "featured": false,
+    "trending": true,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Moderate",
+    "mainFunctionality": "coding AI Solution",
+    "freePlan": true,
+    "rating": "3.8",
+    "reviewCount": 4019,
+    "isNew": false,
+    "isPremium": true,
+    "useCase": [
+      "coding"
+    ],
+    "tags": [
+      "AI",
+      "coding"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Tabnine",
+    "description": "An advanced AI tool focused on coding workflows, providing top-tier capabilities.",
+    "category": "coding",
+    "pricing": "Paid",
+    "logo": "",
+    "url": "https://tabnine.com",
+    "featured": true,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Easy",
+    "mainFunctionality": "coding AI Solution",
+    "freePlan": false,
+    "rating": "4.8",
+    "reviewCount": 1367,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "coding"
+    ],
+    "tags": [
+      "AI",
+      "coding"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Amazon Q Developer",
+    "description": "An advanced AI tool focused on coding workflows, providing top-tier capabilities.",
+    "category": "coding",
+    "pricing": "Free",
+    "logo": "",
+    "url": "https://aws.amazon.com/q/developer",
+    "featured": false,
+    "trending": true,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Moderate",
+    "mainFunctionality": "coding AI Solution",
+    "freePlan": true,
+    "rating": "3.6",
+    "reviewCount": 3596,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "coding"
+    ],
+    "tags": [
+      "AI",
+      "coding"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Lovable",
+    "description": "An advanced AI tool focused on coding workflows, providing top-tier capabilities.",
+    "category": "coding",
+    "pricing": "Free",
+    "logo": "",
+    "url": "https://lovable.dev",
+    "featured": false,
+    "trending": true,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Easy",
+    "mainFunctionality": "coding AI Solution",
+    "freePlan": false,
+    "rating": "4.2",
+    "reviewCount": 1841,
+    "isNew": true,
+    "isPremium": true,
+    "useCase": [
+      "coding"
+    ],
+    "tags": [
+      "AI",
+      "coding"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Bolt.new",
+    "description": "An advanced AI tool focused on coding workflows, providing top-tier capabilities.",
+    "category": "coding",
+    "pricing": "Free",
+    "logo": "",
+    "url": "https://bolt.new",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Advanced",
+    "mainFunctionality": "coding AI Solution",
+    "freePlan": false,
+    "rating": "3.5",
+    "reviewCount": 1465,
+    "isNew": true,
+    "isPremium": false,
+    "useCase": [
+      "coding"
+    ],
+    "tags": [
+      "AI",
+      "coding"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "v0 by Vercel",
+    "description": "An advanced AI tool focused on coding workflows, providing top-tier capabilities.",
+    "category": "coding",
+    "pricing": "Free",
+    "logo": "",
+    "url": "https://v0.dev",
+    "featured": false,
+    "trending": true,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Moderate",
+    "mainFunctionality": "coding AI Solution",
+    "freePlan": true,
+    "rating": "4.3",
+    "reviewCount": 2379,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "coding"
+    ],
+    "tags": [
+      "AI",
+      "coding"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Supermaven",
+    "description": "An advanced AI tool focused on coding workflows, providing top-tier capabilities.",
+    "category": "coding",
+    "pricing": "Paid",
+    "logo": "",
+    "url": "https://supermaven.com",
+    "featured": true,
+    "trending": true,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Moderate",
+    "mainFunctionality": "coding AI Solution",
+    "freePlan": false,
+    "rating": "3.5",
+    "reviewCount": 1924,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "coding"
+    ],
+    "tags": [
+      "AI",
+      "coding"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "CodiumAI",
+    "description": "An advanced AI tool focused on coding workflows, providing top-tier capabilities.",
+    "category": "coding",
+    "pricing": "Paid",
+    "logo": "",
+    "url": "https://codium.ai",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Easy",
+    "mainFunctionality": "coding AI Solution",
+    "freePlan": true,
+    "rating": "4.6",
+    "reviewCount": 4530,
+    "isNew": false,
+    "isPremium": true,
+    "useCase": [
+      "coding"
+    ],
+    "tags": [
+      "AI",
+      "coding"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Blackbox AI",
+    "description": "An advanced AI tool focused on coding workflows, providing top-tier capabilities.",
+    "category": "coding",
+    "pricing": "Freemium",
+    "logo": "",
+    "url": "https://blackbox.ai",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Advanced",
+    "mainFunctionality": "coding AI Solution",
+    "freePlan": true,
+    "rating": "4.2",
+    "reviewCount": 731,
+    "isNew": true,
+    "isPremium": false,
+    "useCase": [
+      "coding"
+    ],
+    "tags": [
+      "AI",
+      "coding"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Sourcegraph Cody",
+    "description": "An advanced AI tool focused on coding workflows, providing top-tier capabilities.",
+    "category": "coding",
+    "pricing": "Paid",
+    "logo": "",
+    "url": "https://sourcegraph.com/cody",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Easy",
+    "mainFunctionality": "coding AI Solution",
+    "freePlan": true,
+    "rating": "4.9",
+    "reviewCount": 1064,
+    "isNew": false,
+    "isPremium": true,
+    "useCase": [
+      "coding"
+    ],
+    "tags": [
+      "AI",
+      "coding"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Warp",
+    "description": "An advanced AI tool focused on coding workflows, providing top-tier capabilities.",
+    "category": "coding",
+    "pricing": "Paid",
+    "logo": "",
+    "url": "https://warp.dev",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Easy",
+    "mainFunctionality": "coding AI Solution",
+    "freePlan": false,
+    "rating": "4.0",
+    "reviewCount": 3058,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "coding"
+    ],
+    "tags": [
+      "AI",
+      "coding"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Mutable.ai",
+    "description": "An advanced AI tool focused on coding workflows, providing top-tier capabilities.",
+    "category": "coding",
+    "pricing": "Freemium",
+    "logo": "",
+    "url": "https://mutable.ai",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Advanced",
+    "mainFunctionality": "coding AI Solution",
+    "freePlan": true,
+    "rating": "3.9",
+    "reviewCount": 900,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "coding"
+    ],
+    "tags": [
+      "AI",
+      "coding"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Devin",
+    "description": "An advanced AI tool focused on coding workflows, providing top-tier capabilities.",
+    "category": "coding",
+    "pricing": "Paid",
+    "logo": "",
+    "url": "https://cognition-labs.com",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Moderate",
+    "mainFunctionality": "coding AI Solution",
+    "freePlan": false,
+    "rating": "4.9",
+    "reviewCount": 2473,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "coding"
+    ],
+    "tags": [
+      "AI",
+      "coding"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Bito",
+    "description": "An advanced AI tool focused on coding workflows, providing top-tier capabilities.",
+    "category": "coding",
+    "pricing": "Paid",
+    "logo": "",
+    "url": "https://bito.ai",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Advanced",
+    "mainFunctionality": "coding AI Solution",
+    "freePlan": true,
+    "rating": "4.0",
+    "reviewCount": 4419,
+    "isNew": false,
+    "isPremium": true,
+    "useCase": [
+      "coding"
+    ],
+    "tags": [
+      "AI",
+      "coding"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "CodeGeeX",
+    "description": "An advanced AI tool focused on coding workflows, providing top-tier capabilities.",
+    "category": "coding",
+    "pricing": "Free",
+    "logo": "",
+    "url": "https://codegeex.cn",
+    "featured": false,
+    "trending": true,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Advanced",
+    "mainFunctionality": "coding AI Solution",
+    "freePlan": false,
+    "rating": "4.1",
+    "reviewCount": 2366,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "coding"
+    ],
+    "tags": [
+      "AI",
+      "coding"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Gamma",
+    "description": "An advanced AI tool focused on productivity workflows, providing top-tier capabilities.",
+    "category": "productivity",
+    "pricing": "Free",
+    "logo": "",
+    "url": "https://gamma.app",
+    "featured": false,
+    "trending": true,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Easy",
+    "mainFunctionality": "productivity AI Solution",
+    "freePlan": true,
+    "rating": "4.2",
+    "reviewCount": 1617,
+    "isNew": false,
+    "isPremium": true,
+    "useCase": [
+      "productivity"
+    ],
+    "tags": [
+      "AI",
+      "productivity"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Notion AI",
+    "description": "An advanced AI tool focused on productivity workflows, providing top-tier capabilities.",
+    "category": "productivity",
+    "pricing": "Paid",
+    "logo": "",
+    "url": "https://notion.so",
+    "featured": true,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Moderate",
+    "mainFunctionality": "productivity AI Solution",
+    "freePlan": true,
+    "rating": "4.9",
+    "reviewCount": 1319,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "productivity"
+    ],
+    "tags": [
+      "AI",
+      "productivity"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Otter",
+    "description": "An advanced AI tool focused on productivity workflows, providing top-tier capabilities.",
+    "category": "productivity",
+    "pricing": "Freemium",
+    "logo": "",
+    "url": "https://otter.ai",
+    "featured": true,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Advanced",
+    "mainFunctionality": "productivity AI Solution",
+    "freePlan": false,
+    "rating": "3.8",
+    "reviewCount": 1671,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "productivity"
+    ],
+    "tags": [
+      "AI",
+      "productivity"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Grammarly",
+    "description": "An advanced AI tool focused on productivity workflows, providing top-tier capabilities.",
+    "category": "productivity",
+    "pricing": "Freemium",
+    "logo": "",
+    "url": "https://grammarly.com",
+    "featured": false,
+    "trending": true,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Moderate",
+    "mainFunctionality": "productivity AI Solution",
+    "freePlan": false,
+    "rating": "4.3",
+    "reviewCount": 4164,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "productivity"
+    ],
+    "tags": [
+      "AI",
+      "productivity"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Tome",
+    "description": "An advanced AI tool focused on productivity workflows, providing top-tier capabilities.",
+    "category": "productivity",
+    "pricing": "Free",
+    "logo": "",
+    "url": "https://tome.app",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Advanced",
+    "mainFunctionality": "productivity AI Solution",
+    "freePlan": false,
+    "rating": "3.7",
+    "reviewCount": 2495,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "productivity"
+    ],
+    "tags": [
+      "AI",
+      "productivity"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "ChatPDF",
+    "description": "An advanced AI tool focused on productivity workflows, providing top-tier capabilities.",
+    "category": "productivity",
+    "pricing": "Freemium",
+    "logo": "",
+    "url": "https://chatpdf.com",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Advanced",
+    "mainFunctionality": "productivity AI Solution",
+    "freePlan": false,
+    "rating": "4.4",
+    "reviewCount": 2659,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "productivity"
+    ],
+    "tags": [
+      "AI",
+      "productivity"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Beautiful.ai",
+    "description": "An advanced AI tool focused on productivity workflows, providing top-tier capabilities.",
+    "category": "productivity",
+    "pricing": "Paid",
+    "logo": "",
+    "url": "https://beautiful.ai",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Advanced",
+    "mainFunctionality": "productivity AI Solution",
+    "freePlan": false,
+    "rating": "4.1",
+    "reviewCount": 959,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "productivity"
+    ],
+    "tags": [
+      "AI",
+      "productivity"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Motion",
+    "description": "An advanced AI tool focused on productivity workflows, providing top-tier capabilities.",
+    "category": "productivity",
+    "pricing": "Free",
+    "logo": "",
+    "url": "https://usemotion.com",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Moderate",
+    "mainFunctionality": "productivity AI Solution",
+    "freePlan": false,
+    "rating": "4.6",
+    "reviewCount": 3849,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "productivity"
+    ],
+    "tags": [
+      "AI",
+      "productivity"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Taskade",
+    "description": "An advanced AI tool focused on productivity workflows, providing top-tier capabilities.",
+    "category": "productivity",
+    "pricing": "Free",
+    "logo": "",
+    "url": "https://taskade.com",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Easy",
+    "mainFunctionality": "productivity AI Solution",
+    "freePlan": true,
+    "rating": "3.6",
+    "reviewCount": 3024,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "productivity"
+    ],
+    "tags": [
+      "AI",
+      "productivity"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Mem",
+    "description": "An advanced AI tool focused on productivity workflows, providing top-tier capabilities.",
+    "category": "productivity",
+    "pricing": "Freemium",
+    "logo": "",
+    "url": "https://mem.ai",
+    "featured": false,
+    "trending": true,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Moderate",
+    "mainFunctionality": "productivity AI Solution",
+    "freePlan": false,
+    "rating": "3.6",
+    "reviewCount": 4150,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "productivity"
+    ],
+    "tags": [
+      "AI",
+      "productivity"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Fathom",
+    "description": "An advanced AI tool focused on productivity workflows, providing top-tier capabilities.",
+    "category": "productivity",
+    "pricing": "Free",
+    "logo": "",
+    "url": "https://fathom.video",
+    "featured": false,
+    "trending": true,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Moderate",
+    "mainFunctionality": "productivity AI Solution",
+    "freePlan": false,
+    "rating": "3.6",
+    "reviewCount": 2788,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "productivity"
+    ],
+    "tags": [
+      "AI",
+      "productivity"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Fireflies.ai",
+    "description": "An advanced AI tool focused on productivity workflows, providing top-tier capabilities.",
+    "category": "productivity",
+    "pricing": "Paid",
+    "logo": "",
+    "url": "https://fireflies.ai",
+    "featured": false,
+    "trending": true,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Advanced",
+    "mainFunctionality": "productivity AI Solution",
+    "freePlan": true,
+    "rating": "3.5",
+    "reviewCount": 4920,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "productivity"
+    ],
+    "tags": [
+      "AI",
+      "productivity"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Rewind",
+    "description": "An advanced AI tool focused on productivity workflows, providing top-tier capabilities.",
+    "category": "productivity",
+    "pricing": "Paid",
+    "logo": "",
+    "url": "https://rewind.ai",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Advanced",
+    "mainFunctionality": "productivity AI Solution",
+    "freePlan": true,
+    "rating": "4.2",
+    "reviewCount": 4276,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "productivity"
+    ],
+    "tags": [
+      "AI",
+      "productivity"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Anydo",
+    "description": "An advanced AI tool focused on productivity workflows, providing top-tier capabilities.",
+    "category": "productivity",
+    "pricing": "Free",
+    "logo": "",
+    "url": "https://any.do",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Easy",
+    "mainFunctionality": "productivity AI Solution",
+    "freePlan": false,
+    "rating": "4.6",
+    "reviewCount": 1291,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "productivity"
+    ],
+    "tags": [
+      "AI",
+      "productivity"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "ClickUp AI",
+    "description": "An advanced AI tool focused on productivity workflows, providing top-tier capabilities.",
+    "category": "productivity",
+    "pricing": "Free",
+    "logo": "",
+    "url": "https://clickup.com",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Moderate",
+    "mainFunctionality": "productivity AI Solution",
+    "freePlan": true,
+    "rating": "4.7",
+    "reviewCount": 1408,
+    "isNew": true,
+    "isPremium": false,
+    "useCase": [
+      "productivity"
+    ],
+    "tags": [
+      "AI",
+      "productivity"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "SaneBox",
+    "description": "An advanced AI tool focused on productivity workflows, providing top-tier capabilities.",
+    "category": "productivity",
+    "pricing": "Free",
+    "logo": "",
+    "url": "https://sanebox.com",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Advanced",
+    "mainFunctionality": "productivity AI Solution",
+    "freePlan": true,
+    "rating": "4.9",
+    "reviewCount": 2617,
+    "isNew": false,
+    "isPremium": true,
+    "useCase": [
+      "productivity"
+    ],
+    "tags": [
+      "AI",
+      "productivity"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Reclaim",
+    "description": "An advanced AI tool focused on productivity workflows, providing top-tier capabilities.",
+    "category": "productivity",
+    "pricing": "Paid",
+    "logo": "",
+    "url": "https://reclaim.ai",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Advanced",
+    "mainFunctionality": "productivity AI Solution",
+    "freePlan": true,
+    "rating": "4.2",
+    "reviewCount": 2283,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "productivity"
+    ],
+    "tags": [
+      "AI",
+      "productivity"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Clockwise",
+    "description": "An advanced AI tool focused on productivity workflows, providing top-tier capabilities.",
+    "category": "productivity",
+    "pricing": "Free",
+    "logo": "",
+    "url": "https://getclockwise.com",
+    "featured": true,
+    "trending": true,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Moderate",
+    "mainFunctionality": "productivity AI Solution",
+    "freePlan": true,
+    "rating": "4.4",
+    "reviewCount": 4691,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "productivity"
+    ],
+    "tags": [
+      "AI",
+      "productivity"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Dust",
+    "description": "An advanced AI tool focused on productivity workflows, providing top-tier capabilities.",
+    "category": "productivity",
+    "pricing": "Free",
+    "logo": "",
+    "url": "https://dust.tt",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Moderate",
+    "mainFunctionality": "productivity AI Solution",
+    "freePlan": false,
+    "rating": "4.7",
+    "reviewCount": 4646,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "productivity"
+    ],
+    "tags": [
+      "AI",
+      "productivity"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "NotebookLM",
+    "description": "An advanced AI tool focused on research workflows, providing top-tier capabilities.",
+    "category": "research",
+    "pricing": "Free",
+    "logo": "",
+    "url": "https://notebooklm.google.com",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Easy",
+    "mainFunctionality": "research AI Solution",
+    "freePlan": true,
+    "rating": "3.7",
+    "reviewCount": 1364,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "research"
+    ],
+    "tags": [
+      "AI",
+      "research"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Elicit",
+    "description": "An advanced AI tool focused on research workflows, providing top-tier capabilities.",
+    "category": "research",
+    "pricing": "Paid",
+    "logo": "",
+    "url": "https://elicit.com",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Moderate",
+    "mainFunctionality": "research AI Solution",
+    "freePlan": true,
+    "rating": "3.8",
+    "reviewCount": 3765,
+    "isNew": false,
+    "isPremium": true,
+    "useCase": [
+      "research"
+    ],
+    "tags": [
+      "AI",
+      "research"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Consensus",
+    "description": "An advanced AI tool focused on research workflows, providing top-tier capabilities.",
+    "category": "research",
+    "pricing": "Paid",
+    "logo": "",
+    "url": "https://consensus.app",
+    "featured": false,
+    "trending": true,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Moderate",
+    "mainFunctionality": "research AI Solution",
+    "freePlan": true,
+    "rating": "4.1",
+    "reviewCount": 4392,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "research"
+    ],
+    "tags": [
+      "AI",
+      "research"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Humata",
+    "description": "An advanced AI tool focused on research workflows, providing top-tier capabilities.",
+    "category": "research",
+    "pricing": "Free",
+    "logo": "",
+    "url": "https://humata.ai",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Advanced",
+    "mainFunctionality": "research AI Solution",
+    "freePlan": true,
+    "rating": "3.7",
+    "reviewCount": 4625,
+    "isNew": true,
+    "isPremium": false,
+    "useCase": [
+      "research"
+    ],
+    "tags": [
+      "AI",
+      "research"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "SciSpace",
+    "description": "An advanced AI tool focused on research workflows, providing top-tier capabilities.",
+    "category": "research",
+    "pricing": "Free",
+    "logo": "",
+    "url": "https://typeset.io",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Advanced",
+    "mainFunctionality": "research AI Solution",
+    "freePlan": false,
+    "rating": "4.8",
+    "reviewCount": 972,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "research"
+    ],
+    "tags": [
+      "AI",
+      "research"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Perplexity Pro",
+    "description": "An advanced AI tool focused on research workflows, providing top-tier capabilities.",
+    "category": "research",
+    "pricing": "Paid",
+    "logo": "",
+    "url": "https://perplexity.ai/pro",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Easy",
+    "mainFunctionality": "research AI Solution",
+    "freePlan": false,
+    "rating": "4.2",
+    "reviewCount": 4763,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "research"
+    ],
+    "tags": [
+      "AI",
+      "research"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Scholarcy",
+    "description": "An advanced AI tool focused on research workflows, providing top-tier capabilities.",
+    "category": "research",
+    "pricing": "Freemium",
+    "logo": "",
+    "url": "https://scholarcy.com",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Advanced",
+    "mainFunctionality": "research AI Solution",
+    "freePlan": true,
+    "rating": "4.2",
+    "reviewCount": 3566,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "research"
+    ],
+    "tags": [
+      "AI",
+      "research"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Genei",
+    "description": "An advanced AI tool focused on research workflows, providing top-tier capabilities.",
+    "category": "research",
+    "pricing": "Paid",
+    "logo": "",
+    "url": "https://genei.io",
+    "featured": false,
+    "trending": true,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Moderate",
+    "mainFunctionality": "research AI Solution",
+    "freePlan": true,
+    "rating": "5.0",
+    "reviewCount": 944,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "research"
+    ],
+    "tags": [
+      "AI",
+      "research"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Trinka",
+    "description": "An advanced AI tool focused on research workflows, providing top-tier capabilities.",
+    "category": "research",
+    "pricing": "Free",
+    "logo": "",
+    "url": "https://trinka.ai",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Moderate",
+    "mainFunctionality": "research AI Solution",
+    "freePlan": true,
+    "rating": "4.6",
+    "reviewCount": 2841,
+    "isNew": false,
+    "isPremium": true,
+    "useCase": [
+      "research"
+    ],
+    "tags": [
+      "AI",
+      "research"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Paperpal",
+    "description": "An advanced AI tool focused on research workflows, providing top-tier capabilities.",
+    "category": "research",
+    "pricing": "Free",
+    "logo": "",
+    "url": "https://paperpal.com",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Advanced",
+    "mainFunctionality": "research AI Solution",
+    "freePlan": false,
+    "rating": "4.4",
+    "reviewCount": 3969,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "research"
+    ],
+    "tags": [
+      "AI",
+      "research"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Explainpaper",
+    "description": "An advanced AI tool focused on research workflows, providing top-tier capabilities.",
+    "category": "research",
+    "pricing": "Free",
+    "logo": "",
+    "url": "https://explainpaper.com",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Moderate",
+    "mainFunctionality": "research AI Solution",
+    "freePlan": true,
+    "rating": "4.6",
+    "reviewCount": 927,
+    "isNew": true,
+    "isPremium": false,
+    "useCase": [
+      "research"
+    ],
+    "tags": [
+      "AI",
+      "research"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Lateral",
+    "description": "An advanced AI tool focused on research workflows, providing top-tier capabilities.",
+    "category": "research",
+    "pricing": "Paid",
+    "logo": "",
+    "url": "https://lateral.io",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Advanced",
+    "mainFunctionality": "research AI Solution",
+    "freePlan": false,
+    "rating": "3.9",
+    "reviewCount": 3321,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "research"
+    ],
+    "tags": [
+      "AI",
+      "research"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Jasper",
+    "description": "An advanced AI tool focused on marketing workflows, providing top-tier capabilities.",
+    "category": "marketing",
+    "pricing": "Paid",
+    "logo": "",
+    "url": "https://jasper.ai",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Moderate",
+    "mainFunctionality": "marketing AI Solution",
+    "freePlan": true,
+    "rating": "4.1",
+    "reviewCount": 629,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "marketing"
+    ],
+    "tags": [
+      "AI",
+      "marketing"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Copy.ai",
+    "description": "An advanced AI tool focused on marketing workflows, providing top-tier capabilities.",
+    "category": "marketing",
+    "pricing": "Freemium",
+    "logo": "",
+    "url": "https://copy.ai",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Moderate",
+    "mainFunctionality": "marketing AI Solution",
+    "freePlan": true,
+    "rating": "4.7",
+    "reviewCount": 1070,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "marketing"
+    ],
+    "tags": [
+      "AI",
+      "marketing"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Writesonic",
+    "description": "An advanced AI tool focused on marketing workflows, providing top-tier capabilities.",
+    "category": "marketing",
+    "pricing": "Paid",
+    "logo": "",
+    "url": "https://writesonic.com",
+    "featured": false,
+    "trending": true,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Moderate",
+    "mainFunctionality": "marketing AI Solution",
+    "freePlan": true,
+    "rating": "3.7",
+    "reviewCount": 2687,
+    "isNew": false,
+    "isPremium": true,
+    "useCase": [
+      "marketing"
+    ],
+    "tags": [
+      "AI",
+      "marketing"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Surfer SEO",
+    "description": "An advanced AI tool focused on marketing workflows, providing top-tier capabilities.",
+    "category": "marketing",
+    "pricing": "Freemium",
+    "logo": "",
+    "url": "https://surferseo.com",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Moderate",
+    "mainFunctionality": "marketing AI Solution",
+    "freePlan": true,
+    "rating": "4.3",
+    "reviewCount": 3632,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "marketing"
+    ],
+    "tags": [
+      "AI",
+      "marketing"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Anyword",
+    "description": "An advanced AI tool focused on marketing workflows, providing top-tier capabilities.",
+    "category": "marketing",
+    "pricing": "Paid",
+    "logo": "",
+    "url": "https://anyword.com",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Easy",
+    "mainFunctionality": "marketing AI Solution",
+    "freePlan": false,
+    "rating": "4.3",
+    "reviewCount": 2347,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "marketing"
+    ],
+    "tags": [
+      "AI",
+      "marketing"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Frase",
+    "description": "An advanced AI tool focused on marketing workflows, providing top-tier capabilities.",
+    "category": "marketing",
+    "pricing": "Freemium",
+    "logo": "",
+    "url": "https://frase.io",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Easy",
+    "mainFunctionality": "marketing AI Solution",
+    "freePlan": true,
+    "rating": "4.8",
+    "reviewCount": 3390,
+    "isNew": false,
+    "isPremium": true,
+    "useCase": [
+      "marketing"
+    ],
+    "tags": [
+      "AI",
+      "marketing"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Rytr",
+    "description": "An advanced AI tool focused on marketing workflows, providing top-tier capabilities.",
+    "category": "marketing",
+    "pricing": "Free",
+    "logo": "",
+    "url": "https://rytr.me",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Easy",
+    "mainFunctionality": "marketing AI Solution",
+    "freePlan": true,
+    "rating": "4.6",
+    "reviewCount": 1070,
+    "isNew": true,
+    "isPremium": true,
+    "useCase": [
+      "marketing"
+    ],
+    "tags": [
+      "AI",
+      "marketing"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Mutiny",
+    "description": "An advanced AI tool focused on marketing workflows, providing top-tier capabilities.",
+    "category": "marketing",
+    "pricing": "Paid",
+    "logo": "",
+    "url": "https://mutinyhq.com",
+    "featured": false,
+    "trending": true,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Moderate",
+    "mainFunctionality": "marketing AI Solution",
+    "freePlan": true,
+    "rating": "4.7",
+    "reviewCount": 780,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "marketing"
+    ],
+    "tags": [
+      "AI",
+      "marketing"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Clearscope",
+    "description": "An advanced AI tool focused on marketing workflows, providing top-tier capabilities.",
+    "category": "marketing",
+    "pricing": "Freemium",
+    "logo": "",
+    "url": "https://clearscope.io",
+    "featured": true,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Advanced",
+    "mainFunctionality": "marketing AI Solution",
+    "freePlan": true,
+    "rating": "3.6",
+    "reviewCount": 2544,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "marketing"
+    ],
+    "tags": [
+      "AI",
+      "marketing"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Peppertype",
+    "description": "An advanced AI tool focused on marketing workflows, providing top-tier capabilities.",
+    "category": "marketing",
+    "pricing": "Free",
+    "logo": "",
+    "url": "https://peppertype.ai",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Moderate",
+    "mainFunctionality": "marketing AI Solution",
+    "freePlan": false,
+    "rating": "4.5",
+    "reviewCount": 2433,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "marketing"
+    ],
+    "tags": [
+      "AI",
+      "marketing"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "ClosersCopy",
+    "description": "An advanced AI tool focused on marketing workflows, providing top-tier capabilities.",
+    "category": "marketing",
+    "pricing": "Paid",
+    "logo": "",
+    "url": "https://closerscopy.com",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Easy",
+    "mainFunctionality": "marketing AI Solution",
+    "freePlan": true,
+    "rating": "4.6",
+    "reviewCount": 201,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "marketing"
+    ],
+    "tags": [
+      "AI",
+      "marketing"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "INK",
+    "description": "An advanced AI tool focused on marketing workflows, providing top-tier capabilities.",
+    "category": "marketing",
+    "pricing": "Free",
+    "logo": "",
+    "url": "https://inkforall.com",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Easy",
+    "mainFunctionality": "marketing AI Solution",
+    "freePlan": false,
+    "rating": "4.7",
+    "reviewCount": 2698,
+    "isNew": true,
+    "isPremium": false,
+    "useCase": [
+      "marketing"
+    ],
+    "tags": [
+      "AI",
+      "marketing"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Hypotenuse AI",
+    "description": "An advanced AI tool focused on marketing workflows, providing top-tier capabilities.",
+    "category": "marketing",
+    "pricing": "Free",
+    "logo": "",
+    "url": "https://hypotenuse.ai",
+    "featured": false,
+    "trending": true,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Moderate",
+    "mainFunctionality": "marketing AI Solution",
+    "freePlan": true,
+    "rating": "4.5",
+    "reviewCount": 2686,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "marketing"
+    ],
+    "tags": [
+      "AI",
+      "marketing"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Copysmith",
+    "description": "An advanced AI tool focused on marketing workflows, providing top-tier capabilities.",
+    "category": "marketing",
+    "pricing": "Freemium",
+    "logo": "",
+    "url": "https://copysmith.ai",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Easy",
+    "mainFunctionality": "marketing AI Solution",
+    "freePlan": true,
+    "rating": "4.0",
+    "reviewCount": 1839,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "marketing"
+    ],
+    "tags": [
+      "AI",
+      "marketing"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Mark Copy",
+    "description": "An advanced AI tool focused on marketing workflows, providing top-tier capabilities.",
+    "category": "marketing",
+    "pricing": "Paid",
+    "logo": "",
+    "url": "https://markcopy.ai",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Moderate",
+    "mainFunctionality": "marketing AI Solution",
+    "freePlan": true,
+    "rating": "4.5",
+    "reviewCount": 2600,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "marketing"
+    ],
+    "tags": [
+      "AI",
+      "marketing"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Scalenut",
+    "description": "An advanced AI tool focused on marketing workflows, providing top-tier capabilities.",
+    "category": "marketing",
+    "pricing": "Freemium",
+    "logo": "",
+    "url": "https://scalenut.com",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Advanced",
+    "mainFunctionality": "marketing AI Solution",
+    "freePlan": false,
+    "rating": "3.9",
+    "reviewCount": 3731,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "marketing"
+    ],
+    "tags": [
+      "AI",
+      "marketing"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Figma AI",
+    "description": "An advanced AI tool focused on design workflows, providing top-tier capabilities.",
+    "category": "design",
+    "pricing": "Paid",
+    "logo": "",
+    "url": "https://figma.com",
+    "featured": false,
+    "trending": true,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Easy",
+    "mainFunctionality": "design AI Solution",
+    "freePlan": false,
+    "rating": "3.9",
+    "reviewCount": 2690,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "design"
+    ],
+    "tags": [
+      "AI",
+      "design"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Khroma",
+    "description": "An advanced AI tool focused on design workflows, providing top-tier capabilities.",
+    "category": "design",
+    "pricing": "Paid",
+    "logo": "",
+    "url": "https://khroma.co",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Advanced",
+    "mainFunctionality": "design AI Solution",
+    "freePlan": false,
+    "rating": "4.2",
+    "reviewCount": 813,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "design"
+    ],
+    "tags": [
+      "AI",
+      "design"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Relume",
+    "description": "An advanced AI tool focused on design workflows, providing top-tier capabilities.",
+    "category": "design",
+    "pricing": "Paid",
+    "logo": "",
+    "url": "https://relume.io",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Easy",
+    "mainFunctionality": "design AI Solution",
+    "freePlan": true,
+    "rating": "4.8",
+    "reviewCount": 926,
+    "isNew": false,
+    "isPremium": true,
+    "useCase": [
+      "design"
+    ],
+    "tags": [
+      "AI",
+      "design"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Looka",
+    "description": "An advanced AI tool focused on design workflows, providing top-tier capabilities.",
+    "category": "design",
+    "pricing": "Paid",
+    "logo": "",
+    "url": "https://looka.com",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Moderate",
+    "mainFunctionality": "design AI Solution",
+    "freePlan": true,
+    "rating": "4.6",
+    "reviewCount": 2407,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "design"
+    ],
+    "tags": [
+      "AI",
+      "design"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Uizard",
+    "description": "An advanced AI tool focused on design workflows, providing top-tier capabilities.",
+    "category": "design",
+    "pricing": "Free",
+    "logo": "",
+    "url": "https://uizard.io",
+    "featured": false,
+    "trending": true,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Moderate",
+    "mainFunctionality": "design AI Solution",
+    "freePlan": false,
+    "rating": "4.2",
+    "reviewCount": 1626,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "design"
+    ],
+    "tags": [
+      "AI",
+      "design"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Galileo AI",
+    "description": "An advanced AI tool focused on design workflows, providing top-tier capabilities.",
+    "category": "design",
+    "pricing": "Freemium",
+    "logo": "",
+    "url": "https://usegalileo.ai",
+    "featured": false,
+    "trending": true,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Moderate",
+    "mainFunctionality": "design AI Solution",
+    "freePlan": false,
+    "rating": "4.5",
+    "reviewCount": 3317,
+    "isNew": false,
+    "isPremium": true,
+    "useCase": [
+      "design"
+    ],
+    "tags": [
+      "AI",
+      "design"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Spline AI",
+    "description": "An advanced AI tool focused on design workflows, providing top-tier capabilities.",
+    "category": "design",
+    "pricing": "Free",
+    "logo": "",
+    "url": "https://spline.design/ai",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Easy",
+    "mainFunctionality": "design AI Solution",
+    "freePlan": true,
+    "rating": "3.9",
+    "reviewCount": 1585,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "design"
+    ],
+    "tags": [
+      "AI",
+      "design"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Autodraw",
+    "description": "An advanced AI tool focused on design workflows, providing top-tier capabilities.",
+    "category": "design",
+    "pricing": "Free",
+    "logo": "",
+    "url": "https://autodraw.com",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Advanced",
+    "mainFunctionality": "design AI Solution",
+    "freePlan": false,
+    "rating": "3.8",
+    "reviewCount": 498,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "design"
+    ],
+    "tags": [
+      "AI",
+      "design"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Fontjoy",
+    "description": "An advanced AI tool focused on design workflows, providing top-tier capabilities.",
+    "category": "design",
+    "pricing": "Freemium",
+    "logo": "",
+    "url": "https://fontjoy.com",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Moderate",
+    "mainFunctionality": "design AI Solution",
+    "freePlan": false,
+    "rating": "3.6",
+    "reviewCount": 2713,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "design"
+    ],
+    "tags": [
+      "AI",
+      "design"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Brandmark",
+    "description": "An advanced AI tool focused on design workflows, providing top-tier capabilities.",
+    "category": "design",
+    "pricing": "Freemium",
+    "logo": "",
+    "url": "https://brandmark.io",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Easy",
+    "mainFunctionality": "design AI Solution",
+    "freePlan": true,
+    "rating": "4.4",
+    "reviewCount": 1026,
+    "isNew": true,
+    "isPremium": false,
+    "useCase": [
+      "design"
+    ],
+    "tags": [
+      "AI",
+      "design"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Miro AI",
+    "description": "An advanced AI tool focused on design workflows, providing top-tier capabilities.",
+    "category": "design",
+    "pricing": "Free",
+    "logo": "",
+    "url": "https://miro.com",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Moderate",
+    "mainFunctionality": "design AI Solution",
+    "freePlan": true,
+    "rating": "3.6",
+    "reviewCount": 2877,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "design"
+    ],
+    "tags": [
+      "AI",
+      "design"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Designs.ai",
+    "description": "An advanced AI tool focused on design workflows, providing top-tier capabilities.",
+    "category": "design",
+    "pricing": "Paid",
+    "logo": "",
+    "url": "https://designs.ai",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Moderate",
+    "mainFunctionality": "design AI Solution",
+    "freePlan": false,
+    "rating": "4.3",
+    "reviewCount": 1566,
+    "isNew": true,
+    "isPremium": true,
+    "useCase": [
+      "design"
+    ],
+    "tags": [
+      "AI",
+      "design"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Monic AI",
+    "description": "An advanced AI tool focused on education workflows, providing top-tier capabilities.",
+    "category": "education",
+    "pricing": "Paid",
+    "logo": "",
+    "url": "https://monic.ai",
+    "featured": false,
+    "trending": true,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Advanced",
+    "mainFunctionality": "education AI Solution",
+    "freePlan": true,
+    "rating": "3.5",
+    "reviewCount": 4484,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "education"
+    ],
+    "tags": [
+      "AI",
+      "education"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Quizgecko",
+    "description": "An advanced AI tool focused on education workflows, providing top-tier capabilities.",
+    "category": "education",
+    "pricing": "Paid",
+    "logo": "",
+    "url": "https://quizgecko.com",
+    "featured": true,
+    "trending": true,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Advanced",
+    "mainFunctionality": "education AI Solution",
+    "freePlan": false,
+    "rating": "4.7",
+    "reviewCount": 4300,
+    "isNew": true,
+    "isPremium": false,
+    "useCase": [
+      "education"
+    ],
+    "tags": [
+      "AI",
+      "education"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Khanmigo",
+    "description": "An advanced AI tool focused on education workflows, providing top-tier capabilities.",
+    "category": "education",
+    "pricing": "Paid",
+    "logo": "",
+    "url": "https://khanacademy.org/khan-labs",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Moderate",
+    "mainFunctionality": "education AI Solution",
+    "freePlan": true,
+    "rating": "4.6",
+    "reviewCount": 2439,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "education"
+    ],
+    "tags": [
+      "AI",
+      "education"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Socratic",
+    "description": "An advanced AI tool focused on education workflows, providing top-tier capabilities.",
+    "category": "education",
+    "pricing": "Free",
+    "logo": "",
+    "url": "https://socratic.org",
+    "featured": false,
+    "trending": true,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Easy",
+    "mainFunctionality": "education AI Solution",
+    "freePlan": false,
+    "rating": "3.8",
+    "reviewCount": 2466,
+    "isNew": false,
+    "isPremium": true,
+    "useCase": [
+      "education"
+    ],
+    "tags": [
+      "AI",
+      "education"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Duolingo Max",
+    "description": "An advanced AI tool focused on education workflows, providing top-tier capabilities.",
+    "category": "education",
+    "pricing": "Freemium",
+    "logo": "",
+    "url": "https://duolingo.com",
+    "featured": true,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Easy",
+    "mainFunctionality": "education AI Solution",
+    "freePlan": true,
+    "rating": "3.5",
+    "reviewCount": 2560,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "education"
+    ],
+    "tags": [
+      "AI",
+      "education"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Explain Like I'm Five AI",
+    "description": "An advanced AI tool focused on education workflows, providing top-tier capabilities.",
+    "category": "education",
+    "pricing": "Paid",
+    "logo": "",
+    "url": "https://explainlikeimfive.io",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Advanced",
+    "mainFunctionality": "education AI Solution",
+    "freePlan": false,
+    "rating": "4.7",
+    "reviewCount": 1290,
+    "isNew": true,
+    "isPremium": false,
+    "useCase": [
+      "education"
+    ],
+    "tags": [
+      "AI",
+      "education"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "TutorAI",
+    "description": "An advanced AI tool focused on education workflows, providing top-tier capabilities.",
+    "category": "education",
+    "pricing": "Paid",
+    "logo": "",
+    "url": "https://tutorai.me",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Easy",
+    "mainFunctionality": "education AI Solution",
+    "freePlan": false,
+    "rating": "3.5",
+    "reviewCount": 2820,
+    "isNew": false,
+    "isPremium": true,
+    "useCase": [
+      "education"
+    ],
+    "tags": [
+      "AI",
+      "education"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Coursebox",
+    "description": "An advanced AI tool focused on education workflows, providing top-tier capabilities.",
+    "category": "education",
+    "pricing": "Free",
+    "logo": "",
+    "url": "https://coursebox.ai",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Advanced",
+    "mainFunctionality": "education AI Solution",
+    "freePlan": true,
+    "rating": "3.6",
+    "reviewCount": 4452,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "education"
+    ],
+    "tags": [
+      "AI",
+      "education"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Yippity",
+    "description": "An advanced AI tool focused on education workflows, providing top-tier capabilities.",
+    "category": "education",
+    "pricing": "Paid",
+    "logo": "",
+    "url": "https://yippity.io",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Moderate",
+    "mainFunctionality": "education AI Solution",
+    "freePlan": false,
+    "rating": "5.0",
+    "reviewCount": 1581,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "education"
+    ],
+    "tags": [
+      "AI",
+      "education"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Knowt",
+    "description": "An advanced AI tool focused on education workflows, providing top-tier capabilities.",
+    "category": "education",
+    "pricing": "Freemium",
+    "logo": "",
+    "url": "https://knowt.io",
+    "featured": false,
+    "trending": true,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Easy",
+    "mainFunctionality": "education AI Solution",
+    "freePlan": false,
+    "rating": "3.7",
+    "reviewCount": 1615,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "education"
+    ],
+    "tags": [
+      "AI",
+      "education"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Numerous.ai",
+    "description": "An advanced AI tool focused on finance workflows, providing top-tier capabilities.",
+    "category": "finance",
+    "pricing": "Freemium",
+    "logo": "",
+    "url": "https://numerous.ai",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Moderate",
+    "mainFunctionality": "finance AI Solution",
+    "freePlan": true,
+    "rating": "3.5",
+    "reviewCount": 2234,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "finance"
+    ],
+    "tags": [
+      "AI",
+      "finance"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Rows",
+    "description": "An advanced AI tool focused on finance workflows, providing top-tier capabilities.",
+    "category": "finance",
+    "pricing": "Freemium",
+    "logo": "",
+    "url": "https://rows.com",
+    "featured": false,
+    "trending": true,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Advanced",
+    "mainFunctionality": "finance AI Solution",
+    "freePlan": true,
+    "rating": "4.7",
+    "reviewCount": 983,
+    "isNew": false,
+    "isPremium": true,
+    "useCase": [
+      "finance"
+    ],
+    "tags": [
+      "AI",
+      "finance"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Julius AI",
+    "description": "An advanced AI tool focused on finance workflows, providing top-tier capabilities.",
+    "category": "finance",
+    "pricing": "Free",
+    "logo": "",
+    "url": "https://julius.ai",
+    "featured": true,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Moderate",
+    "mainFunctionality": "finance AI Solution",
+    "freePlan": false,
+    "rating": "3.9",
+    "reviewCount": 3665,
+    "isNew": false,
+    "isPremium": true,
+    "useCase": [
+      "finance"
+    ],
+    "tags": [
+      "AI",
+      "finance"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Formula Bot",
+    "description": "An advanced AI tool focused on finance workflows, providing top-tier capabilities.",
+    "category": "finance",
+    "pricing": "Freemium",
+    "logo": "",
+    "url": "https://formulabot.com",
+    "featured": false,
+    "trending": true,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Easy",
+    "mainFunctionality": "finance AI Solution",
+    "freePlan": false,
+    "rating": "4.6",
+    "reviewCount": 4243,
+    "isNew": false,
+    "isPremium": true,
+    "useCase": [
+      "finance"
+    ],
+    "tags": [
+      "AI",
+      "finance"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Glean",
+    "description": "An advanced AI tool focused on business workflows, providing top-tier capabilities.",
+    "category": "business",
+    "pricing": "Paid",
+    "logo": "",
+    "url": "https://glean.com",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Easy",
+    "mainFunctionality": "business AI Solution",
+    "freePlan": true,
+    "rating": "3.9",
+    "reviewCount": 747,
+    "isNew": true,
+    "isPremium": false,
+    "useCase": [
+      "business"
+    ],
+    "tags": [
+      "AI",
+      "business"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Dialpad Ai",
+    "description": "An advanced AI tool focused on business workflows, providing top-tier capabilities.",
+    "category": "business",
+    "pricing": "Paid",
+    "logo": "",
+    "url": "https://dialpad.com",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Easy",
+    "mainFunctionality": "business AI Solution",
+    "freePlan": true,
+    "rating": "3.9",
+    "reviewCount": 4482,
+    "isNew": false,
+    "isPremium": true,
+    "useCase": [
+      "business"
+    ],
+    "tags": [
+      "AI",
+      "business"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Zendesk AI",
+    "description": "An advanced AI tool focused on business workflows, providing top-tier capabilities.",
+    "category": "business",
+    "pricing": "Paid",
+    "logo": "",
+    "url": "https://zendesk.com/ai",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Easy",
+    "mainFunctionality": "business AI Solution",
+    "freePlan": true,
+    "rating": "4.7",
+    "reviewCount": 4034,
+    "isNew": false,
+    "isPremium": true,
+    "useCase": [
+      "business"
+    ],
+    "tags": [
+      "AI",
+      "business"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Intercom Fin",
+    "description": "An advanced AI tool focused on business workflows, providing top-tier capabilities.",
+    "category": "business",
+    "pricing": "Paid",
+    "logo": "",
+    "url": "https://intercom.com/fin",
+    "featured": false,
+    "trending": false,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Moderate",
+    "mainFunctionality": "business AI Solution",
+    "freePlan": false,
+    "rating": "4.5",
+    "reviewCount": 1555,
+    "isNew": true,
+    "isPremium": true,
+    "useCase": [
+      "business"
+    ],
+    "tags": [
+      "AI",
+      "business"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "SheetAI",
+    "description": "An advanced AI tool focused on finance workflows, providing top-tier capabilities.",
+    "category": "finance",
+    "pricing": "Paid",
+    "logo": "",
+    "url": "https://sheetai.app",
+    "featured": true,
+    "trending": true,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Advanced",
+    "mainFunctionality": "finance AI Solution",
+    "freePlan": false,
+    "rating": "4.0",
+    "reviewCount": 2202,
+    "isNew": false,
+    "isPremium": false,
+    "useCase": [
+      "finance"
+    ],
+    "tags": [
+      "AI",
+      "finance"
+    ],
+    "status": "approved"
+  },
+  {
+    "name": "Arc",
+    "description": "An advanced AI tool focused on productivity workflows, providing top-tier capabilities.",
+    "category": "productivity",
+    "pricing": "Freemium",
+    "logo": "",
+    "url": "https://arc.net",
+    "featured": false,
+    "trending": true,
+    "features": [
+      "Cloud Based",
+      "AI Powered",
+      "Fast Processing"
+    ],
+    "easeOfUse": "Moderate",
+    "mainFunctionality": "productivity AI Solution",
+    "freePlan": true,
+    "rating": "3.5",
+    "reviewCount": 1285,
+    "isNew": false,
+    "isPremium": true,
+    "useCase": [
+      "productivity"
+    ],
+    "tags": [
+      "AI",
+      "productivity"
+    ],
+    "status": "approved"
+  }
+]

@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 48 24% 96%; /* #F7F6F2 */
+    --foreground: 0 0% 7%; /* #111111 */
+
+    --card: 0 0% 100%;
+    --card-foreground: 0 0% 7%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 0 0% 7%;
+
+    --primary: 0 0% 7%;
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 48 10% 90%; /* #E3E1DB */
+    --secondary-foreground: 0 0% 7%;
+
+    --muted: 48 10% 90%; /* #E3E1DB */
+    --muted-foreground: 60 4% 41%; /* #686863 */
+
+    --accent: 14 37% 40%; /* #8C5140 */
+    --accent-foreground: 0 0% 100%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 98%;
+
+    --border: 48 10% 89%; /* #E3E1DB */
+    --input: 48 10% 89%;
+    --ring: 0 0% 7%;
+
+    --radius: 0.25rem;
+  }
+
+  .dark {
+    --background: 0 0% 7%; /* #121212 */
+    --foreground: 0 0% 95%;
+
+    --card: 0 0% 11%;
+    --card-foreground: 0 0% 95%;
+
+    --popover: 0 0% 11%;
+    --popover-foreground: 0 0% 95%;
+
+    --primary: 0 0% 98%;
+    --primary-foreground: 0 0% 9%;
+
+    --secondary: 0 0% 15%;
+    --secondary-foreground: 0 0% 98%;
+
+    --muted: 0 0% 15%;
+    --muted-foreground: 0 0% 65%;
+
+    --accent: 30 20% 60%; /* muted sand */
+    --accent-foreground: 0 0% 9%;
+
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 0 0% 98%;
+
+    --border: 0 0% 20%;
+    --input: 0 0% 20%;
+    --ring: 0 0% 80%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground antialiased;
+    font-family: 'Inter', sans-serif;
+  }
+  h1, h2, h3, h4, h5, h6, .font-sans {
+    font-family: 'Inter', sans-serif;
+  }
+}
+
+@layer utilities {
+  .text-display {
+    @apply text-5xl md:text-7xl font-normal tracking-normal text-foreground;
+    font-family: 'Inter', sans-serif;
+  }
+  .text-display-sub {
+    @apply text-lg sm:text-xl font-normal leading-relaxed text-muted-foreground max-w-2xl mx-auto;
+    font-family: 'Inter', sans-serif;
+  }
+  
+  /* Remove excessive shadows, use subtle crisp shadows */
+  .shadow-card {
+    box-shadow: 0 2px 5px rgba(0,0,0,0.02);
+  }
+  .shadow-card-hover {
+    box-shadow: 0 10px 30px rgba(0,0,0,0.05);
+  }
+  
+  /* Smooth minimal hover */
+  .hover-lift {
+    @apply transition-transform duration-200 hover:-translate-y-0.5 hover:shadow-card-hover;
+  }
+
+  .focus-ring {
+    @apply focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary focus-visible:ring-offset-2 focus-visible:ring-offset-background;
+  }
+  
+  /* Dot grid pattern for subtle texture */
+  .dot-pattern {
+    background-image: radial-gradient(circle, hsl(var(--border)) 1px, transparent 1px);
+    background-size: 24px 24px;
+  }
+}
+
+/* Minimalist scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: hsl(var(--muted-foreground) / 0.3);
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: hsl(var(--muted-foreground) / 0.5);
+}

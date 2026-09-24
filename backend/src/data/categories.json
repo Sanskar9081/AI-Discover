@@ -1,0 +1,86 @@
+[
+  {
+    "id": "chat",
+    "name": "Chat AI",
+    "icon": "MessageSquare",
+    "color": "hsl(263.4, 70%, 50.4%)"
+  },
+  {
+    "id": "image",
+    "name": "Image AI",
+    "icon": "Image",
+    "color": "hsl(330, 70%, 50%)"
+  },
+  {
+    "id": "video",
+    "name": "Video AI",
+    "icon": "Video",
+    "color": "hsl(200, 70%, 50%)"
+  },
+  {
+    "id": "audio",
+    "name": "Audio AI",
+    "icon": "Music",
+    "color": "hsl(30, 70%, 50%)"
+  },
+  {
+    "id": "coding",
+    "name": "Coding AI",
+    "icon": "Code",
+    "color": "hsl(150, 70%, 40%)"
+  },
+  {
+    "id": "productivity",
+    "name": "Productivity AI",
+    "icon": "Zap",
+    "color": "hsl(50, 70%, 45%)"
+  },
+  {
+    "id": "marketing",
+    "name": "Marketing",
+    "icon": "TrendingUp",
+    "color": "hsl(15, 70%, 50%)"
+  },
+  {
+    "id": "design",
+    "name": "Design",
+    "icon": "Palette",
+    "color": "hsl(280, 70%, 50%)"
+  },
+  {
+    "id": "education",
+    "name": "Education",
+    "icon": "GraduationCap",
+    "color": "hsl(100, 70%, 40%)"
+  },
+  {
+    "id": "research",
+    "name": "Research",
+    "icon": "Code",
+    "color": "hsl(180, 70%, 40%)"
+  },
+  {
+    "id": "business",
+    "name": "Business",
+    "icon": "Zap",
+    "color": "hsl(220, 70%, 50%)"
+  },
+  {
+    "id": "finance",
+    "name": "Finance",
+    "icon": "TrendingUp",
+    "color": "hsl(120, 70%, 40%)"
+  },
+  {
+    "id": "3d",
+    "name": "3D & Animation",
+    "icon": "Video",
+    "color": "hsl(350, 70%, 50%)"
+  },
+  {
+    "id": "dev_tools",
+    "name": "Developer Tools",
+    "icon": "Code",
+    "color": "hsl(200, 70%, 40%)"
+  }
+]

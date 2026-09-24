@@ -1,0 +1,402 @@
+[
+  {
+    "title": "Write an engaging blog post about AI in Finan...",
+    "prompt": "Write an engaging blog post about AI in Finance.\\n\\nPlease make the output highly detailed, professional, and directly actionable. Include bullet points where necessary.",
+    "category": "Chat AI",
+    "author": "AI Expert",
+    "featured": false,
+    "status": "approved"
+  },
+  {
+    "title": "Write an engaging blog post about AI in Healt...",
+    "prompt": "Write an engaging blog post about AI in Healthcare.\\n\\nPlease make the output highly detailed, professional, and directly actionable. Include bullet points where necessary.",
+    "category": "Chat AI",
+    "author": "AI Expert",
+    "featured": false,
+    "status": "approved"
+  },
+  {
+    "title": "Write an engaging blog post about AI in Educa...",
+    "prompt": "Write an engaging blog post about AI in Education.\\n\\nPlease make the output highly detailed, professional, and directly actionable. Include bullet points where necessary.",
+    "category": "Chat AI",
+    "author": "AI Expert",
+    "featured": false,
+    "status": "approved"
+  },
+  {
+    "title": "Write an engaging blog post about AI in SaaS.",
+    "prompt": "Write an engaging blog post about AI in SaaS.\\n\\nPlease make the output highly detailed, professional, and directly actionable. Include bullet points where necessary.",
+    "category": "Chat AI",
+    "author": "AI Expert",
+    "featured": false,
+    "status": "approved"
+  },
+  {
+    "title": "Write an engaging blog post about AI in E-com...",
+    "prompt": "Write an engaging blog post about AI in E-commerce.\\n\\nPlease make the output highly detailed, professional, and directly actionable. Include bullet points where necessary.",
+    "category": "Chat AI",
+    "author": "AI Expert",
+    "featured": true,
+    "status": "approved"
+  },
+  {
+    "title": "Write an engaging blog post about AI in Cyber...",
+    "prompt": "Write an engaging blog post about AI in Cybersecurity.\\n\\nPlease make the output highly detailed, professional, and directly actionable. Include bullet points where necessary.",
+    "category": "Chat AI",
+    "author": "AI Expert",
+    "featured": false,
+    "status": "approved"
+  },
+  {
+    "title": "Write an engaging blog post about AI in Block...",
+    "prompt": "Write an engaging blog post about AI in Blockchain.\\n\\nPlease make the output highly detailed, professional, and directly actionable. Include bullet points where necessary.",
+    "category": "Chat AI",
+    "author": "AI Expert",
+    "featured": false,
+    "status": "approved"
+  },
+  {
+    "title": "Write an engaging blog post about AI in Green...",
+    "prompt": "Write an engaging blog post about AI in Green Energy.\\n\\nPlease make the output highly detailed, professional, and directly actionable. Include bullet points where necessary.",
+    "category": "Chat AI",
+    "author": "AI Expert",
+    "featured": false,
+    "status": "approved"
+  },
+  {
+    "title": "Write an engaging blog post about AI in Real ...",
+    "prompt": "Write an engaging blog post about AI in Real Estate.\\n\\nPlease make the output highly detailed, professional, and directly actionable. Include bullet points where necessary.",
+    "category": "Chat AI",
+    "author": "AI Expert",
+    "featured": false,
+    "status": "approved"
+  },
+  {
+    "title": "Write an engaging blog post about AI in Fitne...",
+    "prompt": "Write an engaging blog post about AI in Fitness.\\n\\nPlease make the output highly detailed, professional, and directly actionable. Include bullet points where necessary.",
+    "category": "Chat AI",
+    "author": "AI Expert",
+    "featured": false,
+    "status": "approved"
+  },
+  {
+    "title": "Write an engaging blog post about AI in Trave...",
+    "prompt": "Write an engaging blog post about AI in Travel.\\n\\nPlease make the output highly detailed, professional, and directly actionable. Include bullet points where necessary.",
+    "category": "Chat AI",
+    "author": "AI Expert",
+    "featured": false,
+    "status": "approved"
+  },
+  {
+    "title": "Write an engaging blog post about AI in Food ...",
+    "prompt": "Write an engaging blog post about AI in Food Delivery.\\n\\nPlease make the output highly detailed, professional, and directly actionable. Include bullet points where necessary.",
+    "category": "Chat AI",
+    "author": "AI Expert",
+    "featured": false,
+    "status": "approved"
+  },
+  {
+    "title": "Write an engaging blog post about AI in Machi...",
+    "prompt": "Write an engaging blog post about AI in Machine Learning.\\n\\nPlease make the output highly detailed, professional, and directly actionable. Include bullet points where necessary.",
+    "category": "Chat AI",
+    "author": "AI Expert",
+    "featured": true,
+    "status": "approved"
+  },
+  {
+    "title": "Write an engaging blog post about AI in Cloud...",
+    "prompt": "Write an engaging blog post about AI in Cloud Computing.\\n\\nPlease make the output highly detailed, professional, and directly actionable. Include bullet points where necessary.",
+    "category": "Chat AI",
+    "author": "AI Expert",
+    "featured": false,
+    "status": "approved"
+  },
+  {
+    "title": "Debug this React component that manages Finan...",
+    "prompt": "Debug this React component that manages Finance state.\\n\\nPlease make the output highly detailed, professional, and directly actionable. Include bullet points where necessary.",
+    "category": "Chat AI",
+    "author": "AI Expert",
+    "featured": false,
+    "status": "approved"
+  },
+  {
+    "title": "Debug this React component that manages Healt...",
+    "prompt": "Debug this React component that manages Healthcare state.\\n\\nPlease make the output highly detailed, professional, and directly actionable. Include bullet points where necessary.",
+    "category": "Chat AI",
+    "author": "AI Expert",
+    "featured": false,
+    "status": "approved"
+  },
+  {
+    "title": "Debug this React component that manages Educa...",
+    "prompt": "Debug this React component that manages Education state.\\n\\nPlease make the output highly detailed, professional, and directly actionable. Include bullet points where necessary.",
+    "category": "Chat AI",
+    "author": "AI Expert",
+    "featured": false,
+    "status": "approved"
+  },
+  {
+    "title": "Debug this React component that manages SaaS ...",
+    "prompt": "Debug this React component that manages SaaS state.\\n\\nPlease make the output highly detailed, professional, and directly actionable. Include bullet points where necessary.",
+    "category": "Chat AI",
+    "author": "AI Expert",
+    "featured": false,
+    "status": "approved"
+  },
+  {
+    "title": "Debug this React component that manages E-com...",
+    "prompt": "Debug this React component that manages E-commerce state.\\n\\nPlease make the output highly detailed, professional, and directly actionable. Include bullet points where necessary.",
+    "category": "Chat AI",
+    "author": "AI Expert",
+    "featured": false,
+    "status": "approved"
+  },
+  {
+    "title": "Debug this React component that manages Cyber...",
+    "prompt": "Debug this React component that manages Cybersecurity state.\\n\\nPlease make the output highly detailed, professional, and directly actionable. Include bullet points where necessary.",
+    "category": "Chat AI",
+    "author": "AI Expert",
+    "featured": false,
+    "status": "approved"
+  },
+  {
+    "title": "Debug this React component that manages Block...",
+    "prompt": "Debug this React component that manages Blockchain state.\\n\\nPlease make the output highly detailed, professional, and directly actionable. Include bullet points where necessary.",
+    "category": "Chat AI",
+    "author": "AI Expert",
+    "featured": false,
+    "status": "approved"
+  },
+  {
+    "title": "Debug this React component that manages Green...",
+    "prompt": "Debug this React component that manages Green Energy state.\\n\\nPlease make the output highly detailed, professional, and directly actionable. Include bullet points where necessary.",
+    "category": "Chat AI",
+    "author": "AI Expert",
+    "featured": false,
+    "status": "approved"
+  },
+  {
+    "title": "Debug this React component that manages Real ...",
+    "prompt": "Debug this React component that manages Real Estate state.\\n\\nPlease make the output highly detailed, professional, and directly actionable. Include bullet points where necessary.",
+    "category": "Chat AI",
+    "author": "AI Expert",
+    "featured": false,
+    "status": "approved"
+  },
+  {
+    "title": "Debug this React component that manages Fitne...",
+    "prompt": "Debug this React component that manages Fitness state.\\n\\nPlease make the output highly detailed, professional, and directly actionable. Include bullet points where necessary.",
+    "category": "Chat AI",
+    "author": "AI Expert",
+    "featured": false,
+    "status": "approved"
+  },
+  {
+    "title": "Debug this React component that manages Trave...",
+    "prompt": "Debug this React component that manages Travel state.\\n\\nPlease make the output highly detailed, professional, and directly actionable. Include bullet points where necessary.",
+    "category": "Chat AI",
+    "author": "AI Expert",
+    "featured": false,
+    "status": "approved"
+  },
+  {
+    "title": "Debug this React component that manages Food ...",
+    "prompt": "Debug this React component that manages Food Delivery state.\\n\\nPlease make the output highly detailed, professional, and directly actionable. Include bullet points where necessary.",
+    "category": "Chat AI",
+    "author": "AI Expert",
+    "featured": false,
+    "status": "approved"
+  },
+  {
+    "title": "Debug this React component that manages Machi...",
+    "prompt": "Debug this React component that manages Machine Learning state.\\n\\nPlease make the output highly detailed, professional, and directly actionable. Include bullet points where necessary.",
+    "category": "Chat AI",
+    "author": "AI Expert",
+    "featured": false,
+    "status": "approved"
+  },
+  {
+    "title": "Debug this React component that manages Cloud...",
+    "prompt": "Debug this React component that manages Cloud Computing state.\\n\\nPlease make the output highly detailed, professional, and directly actionable. Include bullet points where necessary.",
+    "category": "Chat AI",
+    "author": "AI Expert",
+    "featured": true,
+    "status": "approved"
+  },
+  {
+    "title": "Create a comprehensive business plan for a Fi...",
+    "prompt": "Create a comprehensive business plan for a Finance startup.\\n\\nPlease make the output highly detailed, professional, and directly actionable. Include bullet points where necessary.",
+    "category": "Chat AI",
+    "author": "AI Expert",
+    "featured": false,
+    "status": "approved"
+  },
+  {
+    "title": "Create a comprehensive business plan for a He...",
+    "prompt": "Create a comprehensive business plan for a Healthcare startup.\\n\\nPlease make the output highly detailed, professional, and directly actionable. Include bullet points where necessary.",
+    "category": "Chat AI",
+    "author": "AI Expert",
+    "featured": false,
+    "status": "approved"
+  },
+  {
+    "title": "Create a comprehensive business plan for a Ed...",
+    "prompt": "Create a comprehensive business plan for a Education startup.\\n\\nPlease make the output highly detailed, professional, and directly actionable. Include bullet points where necessary.",
+    "category": "Chat AI",
+    "author": "AI Expert",
+    "featured": true,
+    "status": "approved"
+  },
+  {
+    "title": "Create a comprehensive business plan for a Sa...",
+    "prompt": "Create a comprehensive business plan for a SaaS startup.\\n\\nPlease make the output highly detailed, professional, and directly actionable. Include bullet points where necessary.",
+    "category": "Chat AI",
+    "author": "AI Expert",
+    "featured": false,
+    "status": "approved"
+  },
+  {
+    "title": "Create a comprehensive business plan for a E-...",
+    "prompt": "Create a comprehensive business plan for a E-commerce startup.\\n\\nPlease make the output highly detailed, professional, and directly actionable. Include bullet points where necessary.",
+    "category": "Chat AI",
+    "author": "AI Expert",
+    "featured": false,
+    "status": "approved"
+  },
+  {
+    "title": "Create a comprehensive business plan for a Cy...",
+    "prompt": "Create a comprehensive business plan for a Cybersecurity startup.\\n\\nPlease make the output highly detailed, professional, and directly actionable. Include bullet points where necessary.",
+    "category": "Chat AI",
+    "author": "AI Expert",
+    "featured": false,
+    "status": "approved"
+  },
+  {
+    "title": "Create a comprehensive business plan for a Bl...",
+    "prompt": "Create a comprehensive business plan for a Blockchain startup.\\n\\nPlease make the output highly detailed, professional, and directly actionable. Include bullet points where necessary.",
+    "category": "Chat AI",
+    "author": "AI Expert",
+    "featured": false,
+    "status": "approved"
+  },
+  {
+    "title": "Create a comprehensive business plan for a Gr...",
+    "prompt": "Create a comprehensive business plan for a Green Energy startup.\\n\\nPlease make the output highly detailed, professional, and directly actionable. Include bullet points where necessary.",
+    "category": "Chat AI",
+    "author": "AI Expert",
+    "featured": false,
+    "status": "approved"
+  },
+  {
+    "title": "Create a comprehensive business plan for a Re...",
+    "prompt": "Create a comprehensive business plan for a Real Estate startup.\\n\\nPlease make the output highly detailed, professional, and directly actionable. Include bullet points where necessary.",
+    "category": "Chat AI",
+    "author": "AI Expert",
+    "featured": false,
+    "status": "approved"
+  },
+  {
+    "title": "Create a comprehensive business plan for a Fi...",
+    "prompt": "Create a comprehensive business plan for a Fitness startup.\\n\\nPlease make the output highly detailed, professional, and directly actionable. Include bullet points where necessary.",
+    "category": "Chat AI",
+    "author": "AI Expert",
+    "featured": false,
+    "status": "approved"
+  },
+  {
+    "title": "Create a comprehensive business plan for a Tr...",
+    "prompt": "Create a comprehensive business plan for a Travel startup.\\n\\nPlease make the output highly detailed, professional, and directly actionable. Include bullet points where necessary.",
+    "category": "Chat AI",
+    "author": "AI Expert",
+    "featured": false,
+    "status": "approved"
+  },
+  {
+    "title": "Create a comprehensive business plan for a Fo...",
+    "prompt": "Create a comprehensive business plan for a Food Delivery startup.\\n\\nPlease make the output highly detailed, professional, and directly actionable. Include bullet points where necessary.",
+    "category": "Chat AI",
+    "author": "AI Expert",
+    "featured": false,
+    "status": "approved"
+  },
+  {
+    "title": "Create a comprehensive business plan for a Ma...",
+    "prompt": "Create a comprehensive business plan for a Machine Learning startup.\\n\\nPlease make the output highly detailed, professional, and directly actionable. Include bullet points where necessary.",
+    "category": "Chat AI",
+    "author": "AI Expert",
+    "featured": false,
+    "status": "approved"
+  },
+  {
+    "title": "Create a comprehensive business plan for a Cl...",
+    "prompt": "Create a comprehensive business plan for a Cloud Computing startup.\\n\\nPlease make the output highly detailed, professional, and directly actionable. Include bullet points where necessary.",
+    "category": "Chat AI",
+    "author": "AI Expert",
+    "featured": false,
+    "status": "approved"
+  },
+  {
+    "title": "Design a robust SQL schema for a Finance appl...",
+    "prompt": "Design a robust SQL schema for a Finance application.\\n\\nPlease make the output highly detailed, professional, and directly actionable. Include bullet points where necessary.",
+    "category": "Chat AI",
+    "author": "AI Expert",
+    "featured": false,
+    "status": "approved"
+  },
+  {
+    "title": "Design a robust SQL schema for a Healthcare a...",
+    "prompt": "Design a robust SQL schema for a Healthcare application.\\n\\nPlease make the output highly detailed, professional, and directly actionable. Include bullet points where necessary.",
+    "category": "Chat AI",
+    "author": "AI Expert",
+    "featured": false,
+    "status": "approved"
+  },
+  {
+    "title": "Design a robust SQL schema for a Education ap...",
+    "prompt": "Design a robust SQL schema for a Education application.\\n\\nPlease make the output highly detailed, professional, and directly actionable. Include bullet points where necessary.",
+    "category": "Chat AI",
+    "author": "AI Expert",
+    "featured": false,
+    "status": "approved"
+  },
+  {
+    "title": "Design a robust SQL schema for a SaaS applica...",
+    "prompt": "Design a robust SQL schema for a SaaS application.\\n\\nPlease make the output highly detailed, professional, and directly actionable. Include bullet points where necessary.",
+    "category": "Chat AI",
+    "author": "AI Expert",
+    "featured": false,
+    "status": "approved"
+  },
+  {
+    "title": "Design a robust SQL schema for a E-commerce a...",
+    "prompt": "Design a robust SQL schema for a E-commerce application.\\n\\nPlease make the output highly detailed, professional, and directly actionable. Include bullet points where necessary.",
+    "category": "Chat AI",
+    "author": "AI Expert",
+    "featured": false,
+    "status": "approved"
+  },
+  {
+    "title": "Design a robust SQL schema for a Cybersecurit...",
+    "prompt": "Design a robust SQL schema for a Cybersecurity application.\\n\\nPlease make the output highly detailed, professional, and directly actionable. Include bullet points where necessary.",
+    "category": "Chat AI",
+    "author": "AI Expert",
+    "featured": false,
+    "status": "approved"
+  },
+  {
+    "title": "Design a robust SQL schema for a Blockchain a...",
+    "prompt": "Design a robust SQL schema for a Blockchain application.\\n\\nPlease make the output highly detailed, professional, and directly actionable. Include bullet points where necessary.",
+    "category": "Chat AI",
+    "author": "AI Expert",
+    "featured": false,
+    "status": "approved"
+  },
+  {
+    "title": "Design a robust SQL schema for a Green Energy...",
+    "prompt": "Design a robust SQL schema for a Green Energy application.\\n\\nPlease make the output highly detailed, professional, and directly actionable. Include bullet points where necessary.",
+    "category": "Chat AI",
+    "author": "AI Expert",
+    "featured": false,
+    "status": "approved"
+  }
+]
