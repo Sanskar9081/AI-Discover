@@ -2,9 +2,8 @@
 
 > A curated platform for discovering, exploring, comparing, and saving AI tools and prompts.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20AI--Discover-111111?style=for-the-badge)](YOUR_LIVE_DEMO_URL)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20AI--Discover-111111?style=for-the-badge)](https://ai-discover-nu.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-111111?style=for-the-badge&logo=github)](https://github.com/Sanskar9081/AI-Discover)
-[![License](https://img.shields.io/badge/License-MIT-111111?style=for-the-badge)](#license)
 
 ---
 
@@ -18,7 +17,9 @@
 
 </div>
 
-> **Note:** Replace `YOUR_LIVE_DEMO_URL` with the actual deployed frontend URL before pushing the final README.
+> **Note:** Replace `https://ai-discover-nu.vercel.app/` with the actual deployed frontend URL before pushing the final README.
+
+<img width="1535" height="727" alt="image" src="https://github.com/user-attachments/assets/11f95425-224c-4a00-a297-3a602c6d0d98" />
 
 ---
 
