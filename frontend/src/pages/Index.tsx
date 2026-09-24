@@ -109,13 +109,6 @@ const Index = () => {
                 <span className="hover:text-white transition-colors cursor-pointer border-b border-transparent pb-2 w-16">LEARN</span>
               </div>
               
-              <div className="flex items-center justify-between mt-auto">
-                 <span className="text-white/50 text-xs font-bold">01 / 04</span>
-                 <div className="flex gap-2">
-                   <button className="h-8 w-12 border border-white/20 flex items-center justify-center text-white/50 hover:text-white transition-colors"><ArrowRight className="h-3 w-3 rotate-180" /></button>
-                   <button className="h-8 w-12 border border-white/20 flex items-center justify-center text-white/50 hover:text-white transition-colors"><ArrowRight className="h-3 w-3" /></button>
-                 </div>
-              </div>
             </div>
           </div>
         </div>
